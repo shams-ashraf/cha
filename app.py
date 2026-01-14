@@ -85,14 +85,14 @@ if not st.session_state.chats:
 
 # Display header
 st.markdown("""
-<div class="chat-header">
-    <h1>🧬 Biomedical Document Chatbot</h1>
-    <p>Answers only from official documents • Supports English & German • Remembers conversation</p>
+<div class="main-card">
+    <h1 style='text-align:center;margin:0;'>🧬 Biomedical Document Chatbot</h1>
 </div>
 
-<div class="example-questions">
-    <strong>Try these examples:</strong>
-    <ul>
+<div class="main-card">
+    <p style="text-align:center; font-size:1.1rem;">Answers <strong>only</strong> from official documents • Supports English & German • Remembers conversation</p>
+    <h3 style="color:#00d9ff;">Try these examples:</h3>
+    <ul style="font-size:1.05rem;">
         <li>What are the requirements for registering the master's thesis?</li>
         <li>Was sind die Regelungen fur die Masterarbeit?</li>
     </ul>
