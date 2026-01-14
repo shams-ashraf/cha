@@ -1,0 +1,611 @@
+{
+  "chunks": [
+    {
+      "content": "ModulHandbook_2024_19_03.docx\nHochschule Anhalt\nAnhalt University of Applied Sciences\nFachbereich\nEMW (FB6)\nBernburger Str. 55\n06366 Köthen\nKöthen, 03.04.2024\nModul Handbook\nFor the Master Degree Program\nMaster Biomedical Engineering\nJune 2024",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": 1,
+        "type": "semantic_text",
+        "section": "06366 Köthen",
+        "context": "For the Master Degree Program"
+      }
+    },
+    {
+      "content": "Modulhandbuch Biomedical Engineering\nContent\nForeword.3\n1\nComputer Assistierte Medizin  Modul-Nr..4\n2\nModel and AI based Information Processing in Medicine  Modul-Nr. (Modulbezeichnung).6\n3\nBiosignal Processing  Modulnr.8\n4\nBiomedical Imaging  Modulnr.. 10\n5\nSeminar Biomedical Engineering  Modulnr. 11\n6\nMini Project  Modulnr.. 12\n7\nJoint Surgery- Modul-Nr. (). 15\n8\nTechnologies in Minimal Invasive Surgery!- Modul-Nr. (). 17\n9\nIntensive Care Technology!- Modul-Nr. (). 18\n10\nComputer Aided Manufacturing (CAM) in Biomedicine-Nr. (). 19\n11\nOptoelectronics- Modul-Nr. (). 21\n12\nBiomedical Instrumentation- Modul-Nr. (). 23\n13\nBiomedical Modelling and Simulation- Modul-Nr. (). 24\n14\nBiomedical Engineering I- Modul-Nr. (). 26\n15\nBiomedical Engineering II- Modul-Nr. (). 27\n16\nVirtual-, Augmented and Mixed Reality - Modul-Nr. (). 28\n17",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": 2,
+        "type": "semantic_text",
+        "section": "06366 Köthen",
+        "context": "Biomedical & Scientific Computing !!!! - Modul-Nr. () ............................................................................ 48",
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "15\nBiomedical Engineering II- Modul-Nr. (). 27\n16\nVirtual-, Augmented and Mixed Reality - Modul-Nr. (). 28\n17\nSoftware Design- Modul-Nr. (). 31\n18\nHardware Software Co-Design- Modul-Nr. (). 33\n19\nAdvanced Design Engineering for Medical Products - Modul-Nr. (). 35\n20\nMedical Product Development! Modul-Nr. (). 37\n21\nInternship!- Modul-Nr. (). 39\n22\nEntrepreneurship- Modul-Nr. (). 41\n23\nManagement for Engineers!- Modul-Nr. (). 43\n24\nGerman for professional practice 1!- Modul-Nr. (). 44\n25\nGerman for professional practice 2!- Modul-Nr. (). 45\n26\nContemporary Topics!- Modul-Nr. (). 47\n27\nBiomedical  Scientific Computing! - Modul-Nr. (). 48",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": 2,
+        "type": "semantic_text",
+        "section": "06366 Köthen",
+        "context": "Biomedical & Scientific Computing !!!! - Modul-Nr. () ............................................................................ 48",
+        "chunk_index": 2,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "Modulhandbuch Biomedical Engineering\nForeword\nThis module handbook complies with the requirements of the Standing Conference of the Ministers of\nEducation and Cultural Affairs of the Federal Republic of Germany for the \"Qualification Framework for\nGerman University Degrees\" as well as the requirements of the module descriptions required by the\nStAkkrVO of the State of Saxony-Anhalt for the individual courses in the Master's degree programme in\nBiomedical Engineering. The module handbook is used by students to provide information about the individual modules, includ-\ning their specific semester planning, as well as for teachers to document the module content and to co-\nordinate with their colleagues. Information and additions can be obtained from the academic advisor for the degree programme. In addition, the following information can be found in the corresponding study and examination regula-\ntions: Study and examination schedule\nRegular course of study\nModule Catalogue\n4 Semester plan\n3-Semester plan",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": 3,
+        "type": "semantic_text",
+        "section": "4 Semester plan",
+        "context": "In addition, the following information can be found in the corresponding study and examination regula-"
+      }
+    },
+    {
+      "content": "Modulhandbuch Biomedical Engineering\n1 Computer Assistierte Medizin  Modul-Nr. 1. Modulverantwortlicher\nProf. Dr. Marianne Maktabi\n2. Modultyp\nPflichtmodul\nWahlpflichtmodul\n3. ECTS-Leistungspunkte (Credits)\n6 Credits\n4. Lehr-  Lernformen und Workload\n140 hours in total, of which 45 in presence and 75 self-study and 20 h Exam preparation\nAutonomous work: Literature research, scientific work on the topic, slides and presentation. 5. Teilnahmevoraussetzungen\nno\n6. Lernziele  Kompetenzen (Learning Outcomes)\nAt the end of the module students are able to\nknow about basic concepts and methods of computer-assisted medicine\ncan discuss about technical and structural basics, procedures and implementation in the\nmedical environment\nhave a basic methodological understanding of medical-assisting systems\n7. Inhalt des Moduls\nInformation and Communication Standards\nTelemedicine\nImaging device technology\nImage Registration and Visualization\nSurgical device technology\nSurgical navigation systems\nMedical robotics\nRehabilitation Engineering\nAAL\nMedical Software Development\n8. Voraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)\nlab\n9. Prüfungsart und -dauer\nWritten or oral Exam (90 min20 min)\n10. Medienformen\nTafelerklärungen, Präsentationen, PCLaptop",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": 4,
+        "type": "semantic_text",
+        "section": "AAL",
+        "context": "Written or oral Exam (90 min/20 min)"
+      }
+    },
+    {
+      "content": "Modulhandbuch Biomedical Engineering\n11. Empfohlene Literatur\nB. Preim, C. Botha: Visual Computing for Medicine - 2nd Edition, Elsevier, 2013\nSeveral literatures, will be mentioned during the lectures",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": 5,
+        "type": "semantic_text",
+        "section": "AAL",
+        "context": "Several literatures, will be mentioned during the lectures"
+      }
+    },
+    {
+      "content": "Modulhandbuch Biomedical Engineering\n2 Model and AI based Information Processing in Medicine  Modul-Nr. (Mo-\ndulbezeichnung)\n1. Modulverantwortlicher\nProf. Dr. Marianne Maktabi\n2. Modultyp\nPflichtmodul\nWahlpflichtmodul\n3. ECTS-Leistungspunkte (Credits)\n6 Credits\n4. Lehr-  Lernformen und Workload\n140 hours in total, of which 45 in presence and 75 self-study and 20 h Exam preparation\nAutonomous work: Literature research, scientific work on the topic, slides and presentation. 5. Teilnahmevoraussetzungen\nKnowledge about Biomedical Image and Biosignal Processing\n6. Lernziele  Kompetenzen (Learning Outcomes)\nAt the end of the module students are able to\nAbout advanced medical image processing techniques and how to apply them\n7. Inhalt des Moduls\nMethods and algorithms for the analysis and visualization of medical image data incorporating current\nresearch in the field of medical image processing. In detail, the following methods and algorithms will be\npresented: Basics of Neural Networks in Medical Image Processing Signal Processing. Convolutional Neural Networks and Deep Learning in medical image processing\nU-Nets for image segmentation\nAutoencoders and Generative Adversarial Networks in medical image processing\nTechniques for data augmentation, transfer learning\nRandom Decision Forests for medical image data segmentation\nStatistical shape models: generation and application for image segmentation\nROI-based segmentation and cluster analysis for multispectral image data segmentation\nLive wire segmentation\nSegmentation with active contour models and deformable models\n8. Voraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)\nlab\n9. Prüfungsart und -dauer",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": 6,
+        "type": "semantic_text",
+        "section": "6 Credits",
+        "context": "Written or oral Exam (90 min/20 min)",
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "Live wire segmentation\nSegmentation with active contour models and deformable models\n8. Voraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)\nlab\n9. Prüfungsart und -dauer\nWritten or oral Exam (90 min20 min)\n10. Medienformen",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": 6,
+        "type": "semantic_text",
+        "section": "6 Credits",
+        "context": "Written or oral Exam (90 min/20 min)",
+        "chunk_index": 2,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "Modulhandbuch Biomedical Engineering\nTafelerklärungen, Präsentationen\n11. Empfohlene Literatur\nSeveral literatures, will be mentioned during the lectures\nH. Handels: Medizinische Bildverarbeitung - 2. Auflage, Vieweg u. Teubner 2009\nT. Lehmann: Handbuch der Medizinischen Informatik - München: Hanser 2005\nM. Sonka, V. Hlavac, R. Boyle: Image Processing, Analysis and Machine - Elsevier, 2007",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": 7,
+        "type": "semantic_text",
+        "section": "6 Credits",
+        "context": "M. Sonka, V. Hlavac, R. Boyle: Image Processing, Analysis and Machine - Elsevier, 2007"
+      }
+    },
+    {
+      "content": "Modulhandbuch Biomedical Engineering\n3 Biosignal Processing  Modulnr. 1. Modulverantwortlicher\nProf. Dr. Marianne Maktabi\n2. Modultyp\nPflichtmodul\nWahlpflichtmodul\n3. ECTS-Leistungspunkte (Credits)\n6 Credits\n4. Lehr-  Lernformen und Workload\n140 hours in total, of which 45 in presence and 75 self-study and 20 h Exam preparation\nAutonomous work: Literature research, scientific work on the topic, slides and presentation. 5. Teilnahmevoraussetzungen\nKnowledge about Signal Processing\n6. Lernziele  Kompetenzen (Learning Outcomes)\nThe course module aims to provide a basic understanding as well as practical examples on various issues\nrelated to biomedical signal analysis. Students will choose a biosignal application for a course project and will present results at the end of the\nmodule. 7. Inhalt des Moduls\nElementary Signals, LTI-Systems\nConvolution and Correlation\nFourier Analysis and Transform\nFourier Transformation\nTime- and Frequency-Domain Filters\nNoise Removal and Signal Compensation\nStationary and non-stationary Biomedical Signals\nOptimal and Adaptive Filtering\nEvent Detection\n8. Voraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)\nlab\n9. Prüfungsart und -dauer\nWritten or oral Exam (90 min20 min)\n10. Medienformen\nTafelerklärungen, Präsentationen, PCLaptop, Video\n11. Empfohlene Literatur",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": 8,
+        "type": "semantic_text",
+        "section": "6 Credits",
+        "context": "Written or oral Exam (90 min/20 min)"
+      }
+    },
+    {
+      "content": "Modulhandbuch Biomedical Engineering\nBernhard, Stefan. Biosignal Processing. In Biosignal Processing, von Stefan Bernhard, Andreas\nBrensing, und Karl-Heinz Witte, VVI. De Gruyter, 2022. https:doi.org10.15159783110736298-202. Husar, Peter. Biosignalverarbeitung. Berlin, Heidelberg: Springer Berlin Heidelberg, 2010. https:doi.org10.1007978-3-642-12657-4.",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": 9,
+        "type": "semantic_text",
+        "section": "6 Credits",
+        "context": "Husar, Peter. Biosignalverarbeitung. Berlin, Heidelberg: Springer Berlin Heidelberg, 2010."
+      }
+    },
+    {
+      "content": "Modulhandbuch Biomedical Engineering\n4 Biomedical Imaging  Modulnr. 1. Modulverantwortlicher\nProf. Dr. Marianne Maktabi\n2. Modultyp\nPflichtmodul\nWahlpflichtmodul\n3. ECTS-Leistungspunkte (Credits)\n6 Credits\n4. Lehr-  Lernformen und Workload\n140 hours in total, of which 45 in presence and 75 self-study and 20 h Exam preparation\nAutonomous work: Literature research, scientific work on the topic, slides and presentation. 5. Teilnahmevoraussetzungen\nKnowledge about Signal Processing\n6. Lernziele  Kompetenzen (Learning Outcomes)\nThe course module aims to provide a basic understanding as well as practical examples on various issues\nrelated to biomedical image analysis. The students will know about medical image processing techniques and how to apply them\n7. Inhalt des Moduls\nIntroduction\nReview of medical imaging technologies\nData formats in medicine for imaging\nFilter\nSegmentation\nRegistration\nClassification\n8. Voraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)\nlab\n9. Prüfungsart und -dauer\nWritten or oral Exam (90 min20 min)\n10. Medienformen\nTafelerklärungen, Präsentationen, PCLaptop, Video\n11. Empfohlene Literatur\n[1] W. Burger und M. J. Burge, Digital Image Processing: An Algorithmic Introduction Using Java. in Texts\nin Computer Science. London: Springer London, 2016. doi: 10.1007978-1-4471-6684-9.",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": 10,
+        "type": "semantic_text",
+        "section": "6 Credits",
+        "context": "in Computer Science. London: Springer London, 2016. doi: 10.1007/978-1-4471-6684-9."
+      }
+    },
+    {
+      "content": "Modulhandbuch Biomedical Engineering\n5 Seminar Biomedical Engineering  Modulnr. 1. Modulverantwortlicher\nAll Prof. in Biomedical Engineering\n2. Modultyp\nPflichtmodul\nWahlpflichtmodul\n3. ECTS-Leistungspunkte (Credits)\n6 Credits\n4. Lehr-  Lernformen und Workload\n140 hours in total, of which 45 in presence and 75 self-study and 20 h Exam preparation\nAutonomous work: Literature research, scientific work on the topic, slides and presentation. 5. Teilnahmevoraussetzungen\nno\n6. Lernziele  Kompetenzen (Learning Outcomes)\nThe course module aims to provide a basic about guidelines to write a research paper for publication and\nlearn how to prepare a scientific presentation. 7. Inhalt des Moduls\nGenerate ideas and hypotheses: sketching ideas, flowcharts, logical thinking. Create the state of the art: literature reviews, online searches, judging the quality of findings, track\nrecords and ratings, quick reading, plagiarismfraud; social media and science. Analysis results, plotting graphs and writing: publications formats, telling a story with scientific\ndata, tables vs. figures; what to keep inout; typical language issues; writing style; graphic quality. Citation of references according to guidelines. Prepare a scientific presentation. Analyze and summarize research papers and prepare presentations. 8. Voraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)\nlab\n9. Prüfungsart und -dauer\noral Exam (20 min)\n10. Medienformen\nTafelerklärungen, Präsentationen\n11. Empfohlene Literatur",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": 11,
+        "type": "semantic_text",
+        "section": "6 Credits",
+        "context": "[2] Zeiger, M.: Essentials of Writing Biomedical Research Papers. Second Edition, McGraw-Hill Profes-",
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "8. Voraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)\nlab\n9. Prüfungsart und -dauer\noral Exam (20 min)\n10. Medienformen\nTafelerklärungen, Präsentationen\n11. Empfohlene Literatur\n[1] Lang, T.: How to Write, Publish, and Present in the Health Sciences: A Guide for Physicians and Labor-\natory Researchers. American College of Physicians. [2] Zeiger, M.: Essentials of Writing Biomedical Research Papers. Second Edition, McGraw-Hill Profes-\nsional.",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": 11,
+        "type": "semantic_text",
+        "section": "6 Credits",
+        "context": "[2] Zeiger, M.: Essentials of Writing Biomedical Research Papers. Second Edition, McGraw-Hill Profes-",
+        "chunk_index": 2,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "Modulhandbuch Biomedical Engineering\n6 Mini Project  Modulnr. Modulverantwortlicher\nAll Prof. in the Department FMW\nModultyp\nPflichtmodul\nWahlpflichtmodul\nECTS-Leistungspunkte (Credits)\n6 Credits\nLehr-  Lernformen und Workload\n140 hours in total, of which 45 in presence and 75 self-study and 20 h Exam preparation\nAutonomous work: Literature research, scientific work on the topic, slides and presentation. Teilnahmevoraussetzungen\nno\nLernziele  Kompetenzen (Learning Outcomes)\nInterdisciplinary Competencies: Students can\n- independently, alone or in small groups, present, structure, and evaluate a scientific or technical topic\nin writing and orally in a limited amount of time, - Name and apply rules of care in the preparation of scientific papers andor presentations, - Plan and independently perform work steps in the creation of scientific or technical work, - Conduct literature research independently, critically evaluate literature sources and apply citation\nmethods (also in presentations), - Use software to create project work and presentations (including literature management programs, if\napplicable), - Implement techniques of good scientific presentations, - Design group work in a goal-oriented manner, - Apply feedback rules and reflect their own way of working\nInhalt des Moduls\nBy arrangement: Students demonstrate the ability to independently analyze a scientifictechnical\nissue, develop a solution, and elaborate the solution. They will discuss the results with the supervis-\ning university professor and discuss advantages and disadvantages of different approaches. Voraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)\nno\nPrüfungsart und -dauer\noral Exam (20 min)",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": 12,
+        "type": "semantic_text",
+        "section": "6 Credits",
+        "context": "Voraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)",
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "ing university professor and discuss advantages and disadvantages of different approaches. Voraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)\nno\nPrüfungsart und -dauer\noral Exam (20 min)\nMedienformen\nTafelerklärungen,",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": 12,
+        "type": "semantic_text",
+        "section": "6 Credits",
+        "context": "Voraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)",
+        "chunk_index": 2,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "Modulhandbuch Biomedical Engineering\n7 Joint Surgery- Modul-Nr. ()\nModulverantwortlicher\nProf.Dr. Krüger\nModultyp\nPflichtmodul\nWahlpflichtmodul\nECTS-Leistungspunkte (Credits)\n6 Credits\nLehr-  Lernformen und Workload\n140 hours in total, of which 45 in presence and 75 self-study and 20 h Exam preparation\nAutonomous work: Literature research, scientific work on the topic, slides and presentation. Teilnahmevoraussetzungen\nno\nLernziele  Kompetenzen (Learning Outcomes)\nThe student will: Learn the structure and function of the joints and cartilages. Learn different joint preserving techniques: total knee arthroplasty, total hip arthroplasty and\narthroscopy. Inhalt des Moduls\nIntroduction of arthroplasty, structure and function of joints and cartilages, and the principles and\nused equipment for Arthroscopy. Biomaterials, arthroplasty materials, wear, aseptic loosening, fixation (cemented, uncemented, modular, primary and secondary stability), surfaces (hydroxyapatite), robotics, navigation, design, stress shielding, Wolffs law, bone density. THA and TKA systems (primary and revision) demonstration. Medical devices used for joint preserving surgery: designs, materials and medical procedures. Joint replacement materials for joint preserving surgery: characteristics, mechanical properties and\nbiocompatibility. Patient demonstration  visit the orthopedic ward.",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": 15,
+        "type": "semantic_text",
+        "section": "6 Credits",
+        "context": "Voraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)",
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "Joint replacement materials for joint preserving surgery: characteristics, mechanical properties and\nbiocompatibility. Patient demonstration  visit the orthopedic ward. Total knee arthroplasty and total hip arthroplasty; cementing technique (Practical laboratory). Arthroscopy and arthroplasty (Live surgery). Voraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)\nno\nPrüfungsart und -dauer\noral Exam (20 min)\nMedienformen",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": 15,
+        "type": "semantic_text",
+        "section": "6 Credits",
+        "context": "Voraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)",
+        "chunk_index": 2,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "Modulhandbuch Biomedical Engineering\nSeminar, practical laboratory (cementing technique) and live surgery (arthroscopy, arthroplasty). Empfohlene Literatur\n[1] Scuderi, G: Techniques in Revision Hip and Knee Arthroplasty, Saunders. [2] Scuderi, G.,Tria A.: Knee Arthroplasty Handbook, Springer-Verlag New York. Modulhandbuch Biomedical Engineering\n8 Technologies in Minimal Invasive Surgery!- Modul-Nr. ()\nModulverantwortlicher\nProf. Dr. Kipfmüller\nModultyp\nPflichtmodul\nWahlpflichtmodul\nECTS-Leistungspunkte (Credits)\n6 Credits\nLehr-  Lernformen und Workload\n140 hours in total, of which 45 in presence and 75 self-study and 20 h Exam preparation\nAutonomous work: Literature research, scientific work on the topic, slides and presentation. Teilnahmevoraussetzungen\nno\nLernziele  Kompetenzen (Learning Outcomes)\nInhalt des Moduls\nVoraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)\nno\nPrüfungsart und -dauer\noral Exam (20 min)\nMedienformen\nEmpfohlene Literatur",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": "16-17",
+        "type": "merged_pages",
+        "section": "6 Credits",
+        "original_pages": "16,17"
+      }
+    },
+    {
+      "content": "Modulhandbuch Biomedical Engineering\n9 Intensive Care Technology!- Modul-Nr. ()\nModulverantwortlicher\nProf. Dr. Trommler\nModultyp\nPflichtmodul\nWahlpflichtmodul\nECTS-Leistungspunkte (Credits)\n6 Credits\nLehr-  Lernformen und Workload\n140 hours in total, of which 45 in presence and 75 self-study and 20 h Exam preparation\nAutonomous work: Literature research, scientific work on the topic, slides and presentation. Teilnahmevoraussetzungen\nno\nLernziele  Kompetenzen (Learning Outcomes)\nInhalt des Moduls\nVoraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)\nno\nPrüfungsart und -dauer\noral Exam (20 min)\nMedienformen\nEmpfohlene Literatur",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": 18,
+        "type": "semantic_text",
+        "section": "6 Credits",
+        "context": "Voraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)"
+      }
+    },
+    {
+      "content": "Modulhandbuch Biomedical Engineering\n10 Computer Aided Manufacturing (CAM) in Biomedicine-Nr. ()\nModulverantwortlicher\nProf. Dr. Landenberger\nModultyp\nPflichtmodul\nWahlpflichtmodul\nECTS-Leistungspunkte (Credits)\n6 Credits\nLehr-  Lernformen und Workload\n140 hours in total, of which 45 in presence and 75 self-study and 20 h Exam preparation\nAutonomous work: Literature research, scientific work on the topic, slides and presentation. Teilnahmevoraussetzungen\nBasic Skills in Manufacturing Technology\nBasic Skills in CAD\nLernziele  Kompetenzen (Learning Outcomes)\nIn the first part of the course the students will get an overview of current state of CADCAM-technology\nand an overview of software-modules and applications. Furthermore typical terms, processes and re-\nlated manufacturing technologies are explained. In the beginning of the practical courses fundamental sketching and modelling techniques are shown. The following theme is the preparation of the NC programming. This includes the analysis of geometry\nand tolerances plus generation of sketches for the NC path. In the main part of the practical courses the challenges and limitations of NC programming are in the\nfocus. For that purpose typical workpieces for mechanical and medical applications are programmed. Every workpiece is manufactured on the machine tool of the department. The following skills are acquired: Estimation of programming time\nChoosing the right technology (tools, machine tools)\nAssessment of CAM systems\nOptimization of CAM processes\nInhalt des Moduls\nMarket Overview\nTrends\nBasics and Nomenclature\nCADCAM Process Chain",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": 19,
+        "type": "semantic_text",
+        "section": "6 Credits",
+        "context": "Choosing the right technology (tools, machine tools…)",
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "Assessment of CAM systems\nOptimization of CAM processes\nInhalt des Moduls\nMarket Overview\nTrends\nBasics and Nomenclature\nCADCAM Process Chain\nTools and Tool Management\nTool Path Generation\nPostprocessing",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": 19,
+        "type": "semantic_text",
+        "section": "6 Credits",
+        "context": "Choosing the right technology (tools, machine tools…)",
+        "chunk_index": 2,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "Modulhandbuch Biomedical Engineering\nManufacturingMachining\nVoraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)\nno\nPrüfungsart und -dauer\nwritten Exam (20 min)\nMedienformen\nPresentation (PowerPoint), lecture notes\nEmpfohlene Literatur\nWeck, M., Eversheim, W., König, W., Pfeifer, T.: Production Engineering. The Competitive Edge. Butterworth-Heinemann Ltd, Oxford 1991\nKief, H., Roschiwal, H.: CNC-Handbook. Mc Graw Hill, New York, 2011",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": 20,
+        "type": "semantic_text",
+        "section": "6 Credits",
+        "context": "Kief, H., Roschiwal, H.: CNC-Handbook. Mc Graw Hill, New York, 2011"
+      }
+    },
+    {
+      "content": "Modulhandbuch Biomedical Engineering\n11 Optoelectronics- Modul-Nr. ()\nModulverantwortlicher\nProf. Dr. Hannes Kurtze\nModultyp\nPflichtmodul\nWahlpflichtmodul\nECTS-Leistungspunkte (Credits)\n6 Credits\nLehr-  Lernformen und Workload\n140 hours in total, of which 45 in presence and 75 self-study and 20 h Exam preparation\nAutonomous work: Literature research, scientific work on the topic, slides and presentation. Teilnahmevoraussetzungen\nPhysics (optics, oscillations and waves), mathematics I-III. Physical technology, mate-\nrial sciences and microsystems desirable, but not required\nLernziele  Kompetenzen (Learning Outcomes)\nThe course provides principles of optoelectronic devices and relevant methods. Students can explain\nbasic relations in semiconductor optics as well as selected methods of quantum optical phenomena (e.g. stimulated and spontaneous emission). They can describe technical solutions and have a clear idea of\noptical components in technical applications. Inhalt des Moduls\nSemiconductor materials (e.g. Si, GaAs, InSb)\npn-junction\nSensors (photodiode, CCD)\nSurface emitting devices (RCLED, SLED, VCSEL)\nSemiconductor devices of reduced dimensions (e.g. quantum well, quantum dot)\nEfficiency and temperature behavior\nEmission properties of lasers vs. thermal light sources\nApplication in different spectral regions\nApplication in information and communications technology as well as biomedical technology (e.g.",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": 21,
+        "type": "semantic_text",
+        "section": "6 Credits",
+        "context": "Voraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)",
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "Efficiency and temperature behavior\nEmission properties of lasers vs. thermal light sources\nApplication in different spectral regions\nApplication in information and communications technology as well as biomedical technology (e.g. optical data transmission, pulse oximetry)\nSelected advanced methods\nManufacturing, epitaxy\nVoraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)\nLab\nPrüfungsart und -dauer\noral Exam (20 min)\nMedienformen\nTafel, Folien, Skript, Praktikumshandbücher",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": 21,
+        "type": "semantic_text",
+        "section": "6 Credits",
+        "context": "Voraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)",
+        "chunk_index": 2,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "Modulhandbuch Biomedical Engineering\nEmpfohlene Literatur\nEichler, Eichler: Laser. Springer\nThuselt: Physik der Halbleiterbauelemente. Springer\nRainer Dohlus: Lasertechnik. De Gruyter\nBahaa E. A. Saleh, Malvin Carl Teich, Fundamentals of Photonics, Wiley 2007\nDemtröder, W., Laser Spectroscopy: Basic Concepts and Instrumentation, Springer, 2002\nKasap, S.O., Optoelectronics and Photonics: Principles and Practices, Prentice Hall, 2001",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": 22,
+        "type": "semantic_text",
+        "section": "6 Credits",
+        "context": "Kasap, S.O., Optoelectronics and Photonics: Principles and Practices, Prentice Hall, 2001"
+      }
+    },
+    {
+      "content": "Modulhandbuch Biomedical Engineering\n12 Biomedical Instrumentation- Modul-Nr. ()\nModulverantwortlicher\nProf. Dr. Bracio\nModultyp\nPflichtmodul\nWahlpflichtmodul\nECTS-Leistungspunkte (Credits)\n6 Credits\nLehr-  Lernformen und Workload\n140 hours in total, of which 45 in presence and 75 self-study and 20 h Exam preparation\nAutonomous work: Literature research, scientific work on the topic, slides and presentation. Teilnahmevoraussetzungen\nno\nLernziele  Kompetenzen (Learning Outcomes)\nThe student will: Gain an in depth applicable knowledge of the technical components required to convert physio-\nlogical signals into digital data\nAble to design and implement an electronic system to measure physiological signals\nInhalt des Moduls\nIntroduction and application\nReview of electronic key terms\nBiosignals\nBiomedical sensors\nAnalog filters\nBioamplifiers\nAnalog to digital conversion\nVoraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)\nno\nPrüfungsart und -dauer\noral Exam (20 min)\nMedienformen\nEmpfohlene Literatur",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": 23,
+        "type": "semantic_text",
+        "section": "6 Credits",
+        "context": "Voraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)"
+      }
+    },
+    {
+      "content": "Modulhandbuch Biomedical Engineering\n13 Biomedical Modelling and Simulation- Modul-Nr. ()\nModulverantwortlicher\nProf. Dr. Bracio\nModultyp\nPflichtmodul\nWahlpflichtmodul\nECTS-Leistungspunkte (Credits)\n6 Credits\nLehr-  Lernformen und Workload\n140 hours in total, of which 45 in presence and 75 self-study and 20 h Exam preparation\nAutonomous work: Literature research, scientific work on the topic, slides and presentation. Teilnahmevoraussetzungen\nno\nLernziele  Kompetenzen (Learning Outcomes)\nThe student will: Learn the basics of procedural programming in MatlabSimulink. Analyze given problems, develop them on the basis of the analysis algorithms, and implement\nthese algorithms in MatlabSimulink. Be able to simulate and solve biomechanical systems in MatlabSimulink. Inhalt des Moduls\nIntroduction to MatlabSimulink: Familiarization with MatlabSimulink, mathematical modelling, structure block diagrams, generation of various types of waveforms, solving calculations, genera-\ntion of different functions, implementing differential equations. Simulating dynamic systems: simple, discrete, continuous, and hybrid systems; advanced simula-\ntion concepts: zero crossings, algebraic loops, control structures and loops, advanced integrator, simulation parameters, debugging. Subsystems: conditionally executed subsystems, atomic subsystems, masking, libraries, configura-\nble subsystems; command line operation.",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": 24,
+        "type": "semantic_text",
+        "section": "6 Credits",
+        "context": "Voraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)",
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "simulation parameters, debugging. Subsystems: conditionally executed subsystems, atomic subsystems, masking, libraries, configura-\nble subsystems; command line operation. S-functions: simulation procedures, S-functions with no states, S-functions with discrete and contin-\nuous states; simulation of biological systems. Voraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)\nno\nPrüfungsart und -dauer\noral Exam (20 min)\nMedienformen\nEmpfohlene Literatur",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": 24,
+        "type": "semantic_text",
+        "section": "6 Credits",
+        "context": "Voraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)",
+        "chunk_index": 2,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "Modulhandbuch Biomedical Engineering\n[1] Sheare, J.: Dynamic modeling and Control of Engineering Systems, Prentice Hall. [2] Tyagi, K. A..: MATLAB and Simulink for Engineers, Oxford University Press. Modulhandbuch Biomedical Engineering\n14 Biomedical Engineering I- Modul-Nr. ()\nModulverantwortlicher\nDr. Aganoglu\nModultyp\nPflichtmodul\nWahlpflichtmodul\nECTS-Leistungspunkte (Credits)\n6 Credits\nLehr-  Lernformen und Workload\n140 hours in total, of which 45 in presence and 75 self-study and 20 h Exam preparation\nAutonomous work: Literature research, scientific work on the topic, slides and presentation. Teilnahmevoraussetzungen\nno\nLernziele  Kompetenzen (Learning Outcomes)\nInhalt des Moduls\nVoraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)\nno\nPrüfungsart und -dauer\noral Exam (20 min)\nMedienformen\nEmpfohlene Literatur",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": "25-26",
+        "type": "merged_pages",
+        "section": "6 Credits",
+        "original_pages": "25,26"
+      }
+    },
+    {
+      "content": "Modulhandbuch Biomedical Engineering\n15 Biomedical Engineering II- Modul-Nr. ()\nModulverantwortlicher\nDr. Aganoglu\nModultyp\nPflichtmodul\nWahlpflichtmodul\nECTS-Leistungspunkte (Credits)\n6 Credits\nLehr-  Lernformen und Workload\n140 hours in total, of which 45 in presence and 75 self-study and 20 h Exam preparation\nAutonomous work: Literature research, scientific work on the topic, slides and presentation. Teilnahmevoraussetzungen\nno\nLernziele  Kompetenzen (Learning Outcomes)\nInhalt des Moduls\nVoraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)\nno\nPrüfungsart und -dauer\noral Exam (20 min)\nMedienformen\nEmpfohlene Literatur",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": 27,
+        "type": "semantic_text",
+        "section": "6 Credits",
+        "context": "Voraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)"
+      }
+    },
+    {
+      "content": "Modulhandbuch Biomedical Engineering\n16 Virtual-, Augmented and Mixed Reality - Modul-Nr. ()\nModulverantwortlicher\nProf. Dr. Tümler\nModultyp\nPflichtmodul\nWahlpflichtmodul\nECTS-Leistungspunkte (Credits)\n6 Credits\nLehr-  Lernformen und Workload\n140 hours in total, of which 45 in presence and 75 self-study and 20 h Exam preparation\nAutonomous work: Literature research, scientific work on the topic, slides and presentation. Teilnahmevoraussetzungen\nno\nLernziele  Kompetenzen (Learning Outcomes)\nProfessional Competencies: Students gain insight into hardware and software fundamentals, human per-\nceptual processes, and standard tools for virtual and augmented reality. They will learn to identify ARVR\ntechnologies and tools and to select suitable ARVR tools and methods depending on the use case. Stu-\ndents will be able to implement their own low-function ARVR demos and evaluate the suitability of these\ndemos for the application scenario. Interdisciplinary Competencies: - Combined teaching of methodologicaltechnicaleconomic correla-\ntions reinforces analytical ability and deduction - Increase of own creativity and media competence by\ndesigning and presenting lectures in modern presentation forms (e.g. Pecha Kucha) - Promotion of social\nskills through regular cooperative work in small groups - Strengthening of own conflict and communica-\ntion skills through joint assessment of lecture and practical training performances - Self-responsible work\nat individual (group dynamic) speeds in the processing of practical tasks results in strengthened decision\ncompetence - Collaboration with students from other degree programs",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": 28,
+        "type": "semantic_text",
+        "section": "6 Credits",
+        "context": "Voraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)",
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "at individual (group dynamic) speeds in the processing of practical tasks results in strengthened decision\ncompetence - Collaboration with students from other degree programs\nInhalt des Moduls\nFundamentals of ARVR (presence, immersion, interactivity, visualization techniques, tracking, dis-\nplays, software, etc.)\nApplication areas of ARVR technologies (application domains, advantagesdisadvantages, chal-\nlenges for users and companies)\nBuild a basic virtual reality application (Unity, Windows Mixed Reality, SteamVR, OpenVR, Visual\nStudio)\nCreate a basic augmented reality application (Unity, HoloLens 2, Android, Vuforia, Visual Studio)\nInteraction with virtual elements in ARVR (Collider, Physics)\nVoraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)\nno\nPrüfungsart und -dauer",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": 28,
+        "type": "semantic_text",
+        "section": "6 Credits",
+        "context": "Voraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)",
+        "chunk_index": 2,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "Modulhandbuch Biomedical Engineering\nwritten Exam (120 min)\nMedienformen\nEmpfohlene Literatur\n- Lecture notes and videos for lectures and practical training\n- Pangilinan et al: Creating Augmented and Virtual Realities: Theory  Practice for Next-Generation Spa-\ntial Computing. O'Reilly, 2019\n- Schmalstieg, Hollerer: Augmented Reality: Principles and Practice. Addisson-Wesley, 2016\nModulhandbuch Biomedical Engineering",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": "29-30",
+        "type": "merged_pages",
+        "section": "6 Credits",
+        "original_pages": "29,30"
+      }
+    },
+    {
+      "content": "Modulhandbuch Biomedical Engineering\n17 Software Design- Modul-Nr. ()\nModulverantwortlicher\nProf. Dr. Trommler\nModultyp\nPflichtmodul\nWahlpflichtmodul\nECTS-Leistungspunkte (Credits)\n6 Credits\nLehr-  Lernformen und Workload\n140 hours in total, of which 45 in presence and 75 self-study and 20 h Exam preparation\nAutonomous work: Literature research, scientific work on the topic, slides and presentation. Teilnahmevoraussetzungen\nno\nLernziele  Kompetenzen (Learning Outcomes)\nStudents have become familiar with the content and structure of model-based software development\nand know how to apply the principles of\nthe various models to the analysis, design, implementation, testing, and subsequent maintenance of\nsoftware systems. In particular, objectoriented problem analysis and the design of a solution path are\nexplained to the students by means of practical case studies. The programs to be\ncreated are written using the Python or C programming language. Inhalt des Moduls\nIntroduction object orientation: Advantages  disadvantages on practical example\nStructure of the model-based software design from analysis to design\nVisual modeling with UML\nUML interaction diagrams as a communication tool in software design\nFrom UML diagram to program code\nTest strategies of software systems\nPractical training with the PClaptop\nVoraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)\nno\nPrüfungsart und -dauer\nwritten Exam (120 min) or term paper\nMedienformen\nEmpfohlene Literatur\nLarman, C., UML 2 and Pattern applied - object-oriented software development, mitp-Verlag, Frechen, 2005",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": 31,
+        "type": "semantic_text",
+        "section": "6 Credits",
+        "context": "• Larman, C., UML 2 and Pattern applied - object-oriented software development, mitp-Verlag, Frechen,",
+        "chunk_index": 1,
+        "total_chunks": 1,
+        "is_split": true
+      }
+    },
+    {
+      "content": "Modulhandbuch Biomedical Engineering\nGamma, E.; Helm, R.; Johnson, R.; Vlissides, J.: Design Patterns: Entwurfsmuster als Elemente wieder-\nverwendbarer objektorientierter Soware. 1.Aufl. mitp-Verlag, 2015\nVijayakumaran, S. Versionsverwaltung mit Git, mitp-verlag, Frechen, 2016",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": 32,
+        "type": "semantic_text",
+        "section": "6 Credits",
+        "context": "• Vijayakumaran, S. Versionsverwaltung mit Git, mitp-verlag, Frechen, 2016"
+      }
+    },
+    {
+      "content": "Modulhandbuch Biomedical Engineering\n18 Hardware Software Co-Design- Modul-Nr. ()\nModulverantwortlicher\nProf. Dr. Chmielewskie und Prof. Dr. Brutscheck\nModultyp\nPflichtmodul\nWahlpflichtmodul\nECTS-Leistungspunkte (Credits)\n6 Credits\nLehr-  Lernformen und Workload\n140 hours in total, of which 45 in presence and 75 self-study and 20 h Exam preparation\nAutonomous work: Literature research, scientific work on the topic, slides and presentation. Teilnahmevoraussetzungen\nno\nLernziele  Kompetenzen (Learning Outcomes)\nProfessional competencies: Students have an overview of the design, differences and use of simple pro-\ngrammable logics up to complex FPGA (Field Programmable Gate Array). They know the evaluation board\nto be used from e.g. Intel in the basic features of the design, the configuration as well as the interfaces. The \"Tool Chain\" has been discussed and an introduction to the Quartus development environment has\nbeen given. The students have learned all the essential structural elements of VHDL (Very High Speed\nIntegrated Circuit Hardware Description Language) in the form of a compact tutorial and are able to for-\nmulate simple algorithmic problems in VHDL. They have understood the basic principle of a software CPU\nand are able to configure it as well as to implement simple problems both in VHDL as a hardware solution\nand in software using the software CPU (Nios II) and the C programming language. Based on the contents\nand experiences, the students can implement, for example, an MP3 player that receives its data as an IP\nstream from a \"remote computer\". Inhalt des Moduls",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": 33,
+        "type": "semantic_text",
+        "section": "6 Credits",
+        "context": "Voraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)",
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "and experiences, the students can implement, for example, an MP3 player that receives its data as an IP\nstream from a \"remote computer\". Inhalt des Moduls\nProgrammable logic elements\nLow Cost FPGA series e.g. Cyclone (Intel)\nBasics of the programming language VHDL\nSystem On Programmable Chip (SOPC)\nPractical training (e.g. MP3 streaming via Ethernet with Intel FPGA Cyclone IV)\nVoraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)\nno\nPrüfungsart und -dauer\nreport\nMedienformen\nEmpfohlene Literatur",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": 33,
+        "type": "semantic_text",
+        "section": "6 Credits",
+        "context": "Voraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)",
+        "chunk_index": 2,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "Modulhandbuch Biomedical Engineering\n- Gessler, Mahr: Hardware-Soware-Codesign. Vieweg Verlag\n- Hwang: Digital Logic and Microprocessor Design with VHDL. Thomson Verlag - Chu: Embedded SoPC\nDesign with Nios II Processor and VHDL Examples. Wiley Verlag",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": 34,
+        "type": "semantic_text",
+        "section": "6 Credits",
+        "context": "Design with Nios II Processor and VHDL Examples. Wiley Verlag"
+      }
+    },
+    {
+      "content": "Modulhandbuch Biomedical Engineering\n19 Advanced Design Engineering for Medical Products - Modul-Nr. ()\nModulverantwortlicher\nProf. Dr. Trommler\nModultyp\nPflichtmodul\nWahlpflichtmodul\nECTS-Leistungspunkte (Credits)\n6 Credits\nLehr-  Lernformen und Workload\n140 hours in total, of which 45 in presence and 75 self-study and 20 h Exam preparation\nAutonomous work: Literature research, scientific work on the topic, slides and presentation. Teilnahmevoraussetzungen\nno\nLernziele  Kompetenzen (Learning Outcomes)\nThe student will: Basic concepts and methods of computer-assisted medicine: technical and structural basics dis-\ncussed, procedures and methods of simulation, planning and intraoperative implementation in the med-\nical environment, concrete systems. Teaching of a basic methodological understanding of surgery-assisting systems, development of\nthe ability to design one's own systems. Inhalt des Moduls\n1. Introduction to Engineering in Vision and Ophthalmology: Overview of the module, objec-\ntives, and expectations. Importance of biomedical engineering in addressing clinical needs in oph-\nthalmology. Historical context and evolution of tools for vision impairment. 2. Ocular Anatomy and Physiology: In-depth study of ocular anatomy. Understanding the\nphysiological aspects of the eye. Significance of anatomical knowledge in tool development. 3. Ophthalmic Imaging Technologies: Overview of various imaging technologies used in oph-\nthalmology. In-depth study of optical coherence tomography and other advanced imaging methods. 4.",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": 35,
+        "type": "semantic_text",
+        "section": "6 Credits",
+        "context": "used Ophthalmological devices. Guest lectures from industry experts. Discussion on emerging tech-",
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "3. Ophthalmic Imaging Technologies: Overview of various imaging technologies used in oph-\nthalmology. In-depth study of optical coherence tomography and other advanced imaging methods. 4. Diagnostic Techniques in Ophthalmology: Understanding cutting-edge diagnostic tech-\nniques. Application of diagnostic tools in clinical settings. Case studies on successful diagnostic ap-\nproaches. 5. Therapeutic Techniques in Ophthalmology: Overview of advanced therapeutic techniques. Integration of biomedical engineering principles in treatment methods. Case studies. 6. Lasers in Ophthalmology: Application of various lasers in ophthalmic pathologies. Laser\nsafety and laser safety regulations. 7. Basics of Fiber Optics and Fiber Sensors: Fundamentals of fiber optics and their applications\nin medical imaging. Introduction to fiber sensors and their role in Ophthalmological devices. 8. Industrial Trends in Ophthalmological Devices: Exploration of current trends in industrially\nused Ophthalmological devices. Guest lectures from industry experts. Discussion on emerging tech-\nnologies, including virtual reality.",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": 35,
+        "type": "semantic_text",
+        "section": "6 Credits",
+        "context": "used Ophthalmological devices. Guest lectures from industry experts. Discussion on emerging tech-",
+        "chunk_index": 2,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "Modulhandbuch Biomedical Engineering\n9. Optional: Wet-lab in Halle University Hospital if possible. Voraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)\nno\nPrüfungsart und -dauer\nWritten exam (120 min) or oral Exam (20 min)\nMedienformen\nSeminar based teaching, assignments comprising building mock-ups, visual prototypes or similar in\ngroups and peer reviewing the outputs. Empfohlene Literatur\nClinical Anatomy of the Eye, Richard S. Snell and Michael A. Lemp\nOphthalmic Medical Devices: Diagnostic Equipment and Surgical Instruments, Ashok Garg and Jorge L. Alió.",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": 36,
+        "type": "semantic_text",
+        "section": "6 Credits",
+        "context": "Ophthalmic Medical Devices: Diagnostic Equipment and Surgical Instruments, Ashok Garg and Jorge L."
+      }
+    },
+    {
+      "content": "Modulhandbuch Biomedical Engineering\n20 Medical Product Development! Modul-Nr. ()\nModulverantwortlicher\nDr. Aganoglu\nModultyp\nPflichtmodul\nWahlpflichtmodul\nECTS-Leistungspunkte (Credits)\n6 Credits\nLehr-  Lernformen und Workload\n140 hours in total, of which 45 in presence and 75 self-study and 20 h Exam preparation\nAutonomous work: Literature research, scientific work on the topic, slides and presentation. Teilnahmevoraussetzungen\nno\nLernziele  Kompetenzen (Learning Outcomes)\nStudents have knowledge of the content of the Biomedical Engineering degree program. You have basic\nskills in dealing with subject-specific literature, measuring instruments and software. The aim is to pro-\nvide students with a guideline on the interrelationships between the individual subjects of the pro-\ngramme. In joint events with students of the BME master's program, an outlook on current research top-\nics in biomedical engineering is given. Planning and implementation of development work and develop-\nment processes in various medical technology industries. Inhalt des Moduls\nIntroduction to the general development processes of biomedical engineering (planningdevelop-\nmentmanufacturingtestingapproval)\nRegularization, laws, regulations, etc. for the development of MP  Familiarization with and applica-\ntion of selected technical standards for MP development\nDevelopment of functional and requirement specifications for MP (incl. exercises) \"Reverse\" engi-\nneering technologies their meaning, application and implementation (incl. pract. Exercises) Con-\ntents",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": 37,
+        "type": "semantic_text",
+        "section": "6 Credits",
+        "context": "Voraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)",
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "Development of functional and requirement specifications for MP (incl. exercises) \"Reverse\" engi-\nneering technologies their meaning, application and implementation (incl. pract. Exercises) Con-\ntents\nExemplary development of a biomedical device from idea to realization\nInformation, selection, special requirements and the design of special BE and BG for the develop-\nment of MP from different technological fields (sensors, actuators, electronics, classical electrical\nengineering, control technology, pneumatics, hydraulics, etc.)\nDealing with literature (reference books, data sheets, application notes)\nVoraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)\nno\nPrüfungsart und -dauer\noral Exam (20 min)\nMedienformen",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": 37,
+        "type": "semantic_text",
+        "section": "6 Credits",
+        "context": "Voraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)",
+        "chunk_index": 2,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "Modulhandbuch Biomedical Engineering\n21 Internship!- Modul-Nr. ()\nModulverantwortlicher\nAll Prof. in Biomedical Engineering\nModultyp\nPflichtmodul\nWahlpflichtmodul\nECTS-Leistungspunkte (Credits)\n6 Credits for 4 weeks consecutively, 12 credits for 8 weeks (4 weeks consecutively)\nLehr-  Lernformen und Workload\n140 hours in total, of which 45 in presence and 75 self-study and 20 h Exam preparation\nAutonomous work: Literature research, scientific work on the topic, slides and presentation. Teilnahmevoraussetzungen\nno\nLernziele  Kompetenzen (Learning Outcomes)\nThe purpose of the internship is to improve vocational preparation by acquiring practical skills (prefera-\nbly) in a company or in an institution corresponding to the study objective. As part of the internship, stu-\ndents gain practical experience, achieve results in translating theory into practice and gain motivation\nand orientation for the subsequent stages of study. As a rule, the internship is not completed at the uni-\nversity. Supervision by the university (mentor) is ensured. The students apply the knowledge they have\nacquired so far to a specific work task, discuss different possible solutions and consolidate independent\nworking methods and social skills. As part of the term paper for the internship, students practice how to\ndesign and structure scientific papers. The students provide proof that they can independently work on\nand defend a given task. This includes both content-related (theoretical) aspects and practical (analyti-\ncal) skills. Inhalt des Moduls\nIn the course of the internship, students apply the competencies (knowledge, skills, skills) they have",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": 39,
+        "type": "semantic_text",
+        "section": "6 Credits for 4 weeks consecutively, 12 credits for 8 weeks (4 weeks consecutively)",
+        "context": "Voraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)",
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "cal) skills. Inhalt des Moduls\nIn the course of the internship, students apply the competencies (knowledge, skills, skills) they have\nacquired so far during their studies to a specific problem to be agreed with the company supervisor\nand the university supervisor. For this purpose, a project-like task has to be worked on using engi-\nneering methods. The topics for the term paper for the internship are issued by the supervising com-\npany or, in individual cases, can also be asked and worked on internally in the department. The su-\npervising professor accompanies the students during the processing time. The internship module is\nconcluded with a written elaboration (term paper on the internship) as well as a presentation to the\nuniversity. Voraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)\nno\nPrüfungsart und -dauer\nMedienformen",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": 39,
+        "type": "semantic_text",
+        "section": "6 Credits for 4 weeks consecutively, 12 credits for 8 weeks (4 weeks consecutively)",
+        "context": "Voraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)",
+        "chunk_index": 2,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "Modulhandbuch Biomedical Engineering\n22 Entrepreneurship- Modul-Nr. ()\nModulverantwortlicher\nProf. Dr. Fussan\nModultyp\nPflichtmodul\nWahlpflichtmodul\nECTS-Leistungspunkte (Credits)\n6 Credits\nLehr-  Lernformen und Workload\n140 hours in total, of which 45 in presence and 75 self-study and 20 h Exam preparation\nAutonomous work: Literature research, scientific work on the topic, slides and presentation. Teilnahmevoraussetzungen\nno\nLernziele  Kompetenzen (Learning Outcomes)\nCourse participants obtain: An understanding about the importance of entrepreneurship\nand the small business sector in a broad economic and social\nperspective and to analyse the environment in which\nentrepreneurs operate. Investigate the relevance of strategic management in the\ncreation and planning of the entrepreneurial small business. Furthermore the diversity of small business types is explored, including start-ups, franchises, buying a business and the legal\nforms. This analysis is undertaken from an international\nperspective. Evaluate how entrepreneurial businesses work in practice, focusing on the development, growth and exit stages through\nkey functions of managing people, resources, marketing and\ncapital and evaluate the business opportunities, analyse the\nfeasibility and develop business plans in an international\nbusiness environment. Inhalt des Moduls\n1. Understanding small business and entrepreneurship\n1.1 Small business in the economy\n1.2 Entrepreneurshp, the entrepreneur and the owner-manager",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": 41,
+        "type": "semantic_text",
+        "section": "1.2 Entrepreneurshp, the entrepreneur and the owner-manager",
+        "context": "1. Understanding small business and entrepreneurship",
+        "chunk_index": 1,
+        "total_chunks": 1,
+        "is_split": true
+      }
+    },
+    {
+      "content": "Modulhandbuch Biomedical Engineering\n1.3 The small business and entrepreneurial environment\n1.4 Innovation and the marketplace\n1.5 Information and support\n2 Creating the entrepreneurial small business\n2.1 Business planning\n2.2 Successful small business strategies\n2.3 Start-ups and franchises\n2.4 Buying an existing business\n2.5 Forming and protecting a business\n3 Managing the entrepreneurial small business\n3.1 Management of people and resources\n3.2 Marketing\n3.3 Money\n3.4 Business exists and realizing value\nVoraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)\nno\nPrüfungsart und -dauer\nwritten Exam (120 min)\nMedienformen\nLecture\nPracticeexercises\nDiscussions with entrepreneurs\nGroup work\nApplication of modern media\nSelf-study\nEmpfohlene Literatur\nBygrave, W., Zacharakis, A., Entrepreneurship, Wiley  Sons, 2010, 2nd Edition, Chaston I. Entrepreneurial Management in Small Firms. Sage\nPublications, 2009. Drucker, P., Innovation  Entrepreneurship, Harper Business, Reprint 2006. Morris M., Kuratko D., Cavin G. Corporate Entrepreneurship\nand Innovation. Cengage Learning, 2010, 3rd ed. Ramirez R., Selsky J., der Heijden K., Cable V. Business\nPlanning for Turbulent Times. Routledge, 2010, 2nd ed. Stoke, D., Wilson, N.: Small business management\nentrepreneurship, 5th Edition, Thomson, 2006.",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": 42,
+        "type": "semantic_text",
+        "section": "3.4 Business exists and realizing value",
+        "context": "entrepreneurship, 5th Edition, Thomson, 2006."
+      }
+    },
+    {
+      "content": "Modulhandbuch Biomedical Engineering\n23 Management for Engineers!- Modul-Nr. ()\nModulverantwortlicher\nProf. Dr. Fussan\nModultyp\nPflichtmodul\nWahlpflichtmodul\nECTS-Leistungspunkte (Credits)\n6 Credits\nLehr-  Lernformen und Workload\n140 hours in total, of which 45 in presence and 75 self-study and 20 h Exam preparation\nAutonomous work: Literature research, scientific work on the topic, slides and presentation. Teilnahmevoraussetzungen\nno\nLernziele  Kompetenzen (Learning Outcomes)\nInhalt des Moduls\nVoraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)\nno\nPrüfungsart und -dauer\noral Exam (20 min)\nMedienformen\nEmpfohlene Literatur\nModulhandbuch Biomedical Engineering\n24 German for professional practice 1!- Modul-Nr. ()\nModulverantwortlicher\nModultyp\nPflichtmodul\nWahlpflichtmodul\nECTS-Leistungspunkte (Credits)\n6 Credits\nLehr-  Lernformen und Workload\n140 hours in total, of which 45 in presence and 75 self-study and 20 h Exam preparation\nAutonomous work: Literature research, scientific work on the topic, slides and presentation. Teilnahmevoraussetzungen\nno\nLernziele  Kompetenzen (Learning Outcomes)\nInhalt des Moduls\nVoraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)\nno\nPrüfungsart und -dauer\noral Exam (20 min)\nMedienformen\nEmpfohlene Literatur",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": "43-44",
+        "type": "merged_pages",
+        "section": "6 Credits",
+        "original_pages": "43,44"
+      }
+    },
+    {
+      "content": "Modulhandbuch Biomedical Engineering\n25 German for professional practice 2!- Modul-Nr. ()\nModulverantwortlicher\nModultyp\nPflichtmodul\nWahlpflichtmodul\nECTS-Leistungspunkte (Credits)\n6 Credits\nLehr-  Lernformen und Workload\n140 hours in total, of which 45 in presence and 75 self-study and 20 h Exam preparation\nAutonomous work: Literature research, scientific work on the topic, slides and presentation. Teilnahmevoraussetzungen\nno\nLernziele  Kompetenzen (Learning Outcomes)\nInhalt des Moduls\nVoraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)\nno\nPrüfungsart und -dauer\noral Exam (20 min)\nMedienformen\nEmpfohlene Literatur\nModulhandbuch Biomedical Engineering",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": "45-46",
+        "type": "merged_pages",
+        "section": "6 Credits",
+        "original_pages": "45,46"
+      }
+    },
+    {
+      "content": "Modulhandbuch Biomedical Engineering\n26 Contemporary Topics!- Modul-Nr. ()\nModulverantwortlicher\nAll Prof. in Biomedical Engineering\nModultyp\nPflichtmodul\nWahlpflichtmodul\nECTS-Leistungspunkte (Credits)\n6 Credits\nLehr-  Lernformen und Workload\n140 hours in total, of which 45 in presence and 75 self-study and 20 h Exam preparation\nAutonomous work: Literature research, scientific work on the topic, slides and presentation. Teilnahmevoraussetzungen\nno\nLernziele  Kompetenzen (Learning Outcomes)\nAppreciation of some of the major biomedical engineering problems facing the world today. Understanding the major factors contributing to a particular biomedical engineering issue. Understanding of research in selected areas of biomedical engineering to the limits of current\nknowledge. Inhalt des Moduls\nAim: To expose students to a range of topics in contemporary research across biomedical engineering. To develop skills in analysis of problems in contemporary areas of biomedical engineering, includ-\ning drawing conclusions and making recommendations on how to best to tackle these problems. To communicate findings and conclusions through various media. Introduction to the task; workshops in identifying the problem, and acquiring relevant information. Seminars in topics related to analysing the problem and making recommendations for possible solutions. Voraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)\nno\nPrüfungsart und -dauer\noral Exam (20 min) or written exam (120 min)\nMedienformen\nPresentation, blackboard\nEmpfohlene Literatur",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": 47,
+        "type": "semantic_text",
+        "section": "6 Credits",
+        "context": "oral Exam (20 min) or written exam (120 min)",
+        "chunk_index": 1,
+        "total_chunks": 1,
+        "is_split": true
+      }
+    },
+    {
+      "content": "Modulhandbuch Biomedical Engineering\n27 Biomedical  Scientific Computing! - Modul-Nr. ()\nModulverantwortlicher\nProf. Dr. Bracio\nModultyp\nPflichtmodul\nWahlpflichtmodul\nECTS-Leistungspunkte (Credits)\n6 Credits\nLehr-  Lernformen und Workload\n140 hours in total, of which 45 in presence and 75 self-study and 20 h Exam preparation\nAutonomous work: Literature research, scientific work on the topic, slides and presentation. Teilnahmevoraussetzungen\nno\nLernziele  Kompetenzen (Learning Outcomes)\nInhalt des Moduls\nVoraussetzung für die Zulassung zur Modulprüfung (Prüfungsvorleistung)\nno\nPrüfungsart und -dauer\noral Exam (20 min)\nMedienformen\nEmpfohlene Literatur\nModulhandbuch Biomedical Engineering",
+      "metadata": {
+        "source": "ModulHandbook_Draft (1)",
+        "page": "48-49",
+        "type": "merged_pages",
+        "section": "6 Credits",
+        "original_pages": "48,49"
+      }
+    }
+  ]
+}

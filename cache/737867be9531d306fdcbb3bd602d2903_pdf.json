@@ -1,0 +1,261 @@
+{
+  "chunks": [
+    {
+      "content": "Term papers, theses (bachelor, master, diploma)\nStatus: April 20, 2022\nTable of contents\n1 Introduction. 2\n1.1 General Notes. 2\n1.2 Submission of the work. 2\n1.3 Evaluation of the work. 2\n1.4 Use of the professional title \"Engineer. 3\n2 Structure, layout and scope of the scientific work. 4\n2.1 Outline (recommendation). 4\n2.2 Title page and page numbering. 5\n2.3 Layout. 5\n2.4 Declaration of independence, blocking note, short summary (abstract). 5\n2.5 Scope of work. 6\n3 Spelling and grammar. 7\n4 Citation technique and bibliography. 8\n5 Sources of information. 11\n6 Further reading. 11",
+      "metadata": {
+        "source": "Guide_for_writing_scientific_Papers_2022",
+        "page": 1,
+        "type": "semantic_text",
+        "section": "2.4 Declaration of independence, blocking note, short summary (abstract)............. 5",
+        "context": "6 Further reading .................................................................................................................. 11",
+        "chunk_index": 1,
+        "total_chunks": 1,
+        "is_split": true
+      }
+    },
+    {
+      "content": "2\n1\nIntroduction\n1.1 General Notes\nIn accordance with the study and examination regulations in force at Anhalt University of\nApplied Sciences, students of the Department of Electrical Engineering, Mechanical\nEngineering and Industrial Engineering are required to submit project reports, term papers, as\nwell as Bachelor's, Diploma or Master's thesis. These papers must basically meet scientific requirements. These requirements refer to the\ncontent, the type of literature used as well as to formal criteria. A scientific paper (hereinafter\nreferred to as WA) that does not sufficiently take into account certain formal principles is not\nacceptable as a whole. Obviously, the advice documented in these guidelines cannot discuss\nall conceivable possibilities of citation methods, forms of arrangement, etc. If you are not sure\nhow to proceed, ask your mentor. This applies especially to necessary deviations from the\ngiven design recommendations. This guide is based on the study and examination regulations, as well as the internship regulations in the currently valid version. Before processing the topic and submitting the thesis, the corresponding applications for\nadmission to the thesis (with topic and signature) must be submitted to the examination\nboardsecretary's office. A confirmation of admission incl. deadline for submission will be sent\nby email. By means of a submitted WA, students are to demonstrate that they are able to work on a\nproblem independently within a given time, to apply scientific knowledge, to overview the\ntechnical contexts and to present the findings convincingly, unambiguously, in appropriate\nlanguage and in a clear form, as well as to demonstrate scientific methods and social skills. An appropriate number of specialist literature and journals are to be evaluated. 1.2 Submission of the work",
+      "metadata": {
+        "source": "Guide_for_writing_scientific_Papers_2022",
+        "page": 2,
+        "type": "semantic_text",
+        "section": "1.3 Evaluation of the work",
+        "context": "assessment on the implementation of the set task) with the thesis. Second examiners - also",
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "language and in a clear form, as well as to demonstrate scientific methods and social skills. An appropriate number of specialist literature and journals are to be evaluated. 1.2 Submission of the work\nThe WA is to be submitted in a form customary for scientific publications as an electronically\nreadable document (e.g. PDF file) to the secretariat of the examination board in the\ndepartment. If the submission of bound copies has been agreed with the reviewers, a complete version of\nthe paper must also be provided in electronically readable form. Additional file formats (Word\nor LaTeX file or similar) can be agreed with the supervisor. If scripts, animations, videos, internet sources, images and PDF files, source codes, measurement protocols or study results\nwere relevant to the work, these must also be made available electronically at the request of\nthe examiners or reviewers. Otherwise, a check of the correct use of sources cannot be\nguaranteed. For the submission of the term paper on the professional internship, it is sufficient\nto hand in an unbound copy (e.g. bookletring binder) or an electronic transmission to the\nmentorexaminer. You must coordinate the respective case with the mentorexaminer. 1.3 Evaluation of the work\nFinal theses are assessed and evaluated by at least two examiners independently of each\nother, whereby a practical opinion from the company supervisor, if available, can be taken into\naccount. In any case, it is recommended to include a company statement (performance\nassessment on the implementation of the set task) with the thesis. Second examiners - also",
+      "metadata": {
+        "source": "Guide_for_writing_scientific_Papers_2022",
+        "page": 2,
+        "type": "semantic_text",
+        "section": "1.3 Evaluation of the work",
+        "context": "assessment on the implementation of the set task) with the thesis. Second examiners - also",
+        "chunk_index": 2,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "3\nexternal university examiners - can only be persons who are thematically and professionally\ncompetent and have at least an academic degree that the student wishes to acquire. Examinersreviewers consider the following criteria, among others, when evaluating theses: Independent professional treatment of the topic (taking into account the degree\nof difficulty)\nTreatment of the topic (e.g. problem definition, own initiative, systematics, creativity and own ideas)\nUse of technical or business expertise\nUse of methods, tools, instruments and models\nEconomic evaluation and feasibility of the results (as far as relevant for the task)\nExtent, topicality and correct use of the literature used\nConsideration of formal requirements (structure, design, writing style, spelling\nand grammar, citation technique)\nA final thesis must (as a rule) be defended in a public colloquium at the university (approx. 20\nminutes own presentation of the thesis and its results and approx. 30 minutes discussion). In\nthe colloquium for the final thesis, the students prove that they are able to present scientific\nfindings and their own results using modern means of presentation and to represent them in\na scientific discussion. The assessment criteria are the form and content of the presentation, as well as comprehensible presentation of (complex) facts, manner of presentation and proof\nof topic-related expertise in the discussion. When preparing your work, please bear in mind that it can be checked automatically for\nplagiarism, even using plagiarism checking software. The word-for-word copying of other\npeople's texts is therefore not permitted; if it is, this must be marked accordingly. For papers",
+      "metadata": {
+        "source": "Guide_for_writing_scientific_Papers_2022",
+        "page": 3,
+        "type": "semantic_text",
+        "section": "1.4 Use of the professional title \"Engineer“",
+        "context": "apply to the Chamber of Engineers of the State of Saxony-Anhalt to use the professional title",
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "plagiarism, even using plagiarism checking software. The word-for-word copying of other\npeople's texts is therefore not permitted; if it is, this must be marked accordingly. For papers\nwritten in English, the US standard prescribed by the university applies. 1.4 Use of the professional title \"Engineer\nAccording to the Engineering Act of the State of Saxony-Anhalt (IngG LSA) of January 22, 2009, graduates residing in Saxony-Anhalt (Bachelor's and Master's degrees) are entitled to\napply to the Chamber of Engineers of the State of Saxony-Anhalt to use the professional title\n\"Engineer\".",
+      "metadata": {
+        "source": "Guide_for_writing_scientific_Papers_2022",
+        "page": 3,
+        "type": "semantic_text",
+        "section": "1.4 Use of the professional title \"Engineer“",
+        "context": "apply to the Chamber of Engineers of the State of Saxony-Anhalt to use the professional title",
+        "chunk_index": 2,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "4\n2\nStructure, layout and scope of the scientific work\n2.1 Outline (recommendation)\nA scientific paper usually consists of the following parts: Cover (only for printed copies)\nTitle page (without page number)\nabstract (without page number)\nif applicable, blocking note (without page number)\nForeword, if applicable\nTable of contents (including information on indexes, appendices and annexes)\nList of figures (optional in consultation with the mentor)\nList of tables\nList of abbreviations\nText part of the paper (structured using decimal classification)\nIntroduction and problem definition\nmain part\nSummaryOutlook\nBibliography (reference books, journals, other written publications)\nList of sources (internet sources with hyperlink)\nAppendices (with preceding list of appendices)\nDeclaration of independence (without page numbering)\nAppendix, if applicable (with list of appendices and own page numbering, e.g., loose\nin a slip pocket)\nThe outline should reflect the logical structure of the work. It must be systematic. As a rule, decimal classification is used (e.g., 1 Chapter One, 1.1 Section One, 1.2 Section Two, then\npossibly 1.2.1 Subsection One, 1.2.2 Subsection Two, etc.). More than four decimal places\nare to be avoided. Each subdivision must contain at least two sections or subsections! In the\ntable of contents, each bullet point must be given a page number. The chapter and section",
+      "metadata": {
+        "source": "Guide_for_writing_scientific_Papers_2022",
+        "page": 4,
+        "type": "semantic_text",
+        "section": "2.1 Outline (recommendation)",
+        "context": "Heading of section 1 to chapter 2",
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "are to be avoided. Each subdivision must contain at least two sections or subsections! In the\ntable of contents, each bullet point must be given a page number. The chapter and section\ndesignations in the table of contents must correspond exactly to the designations in the text\nof the paper. In an outline, not only a mere list of pages should be recognizable, but above all the focus of\nthe work as well as the logical argumentation structure. There are different possibilities of the\noutline available. In each case, the outline form should be chosen that provides the greatest\noverview depending on the number and content of your bullet points. Not only \"optical\"\naspects play a role in an outline, but also the \"red thread\" of the argumentation must be\nrecognizable. Example of a graduated decimal classification of the text part of a WA\n1\nHeading Chapter 1\nBlank line\nText\n2 blank lines\n2\nHeading Chapter 2\nparagraph 6 pt\n2.1\nHeading of section 1 to chapter 2\nBlank line\nText",
+      "metadata": {
+        "source": "Guide_for_writing_scientific_Papers_2022",
+        "page": 4,
+        "type": "semantic_text",
+        "section": "2.1 Outline (recommendation)",
+        "context": "Heading of section 1 to chapter 2",
+        "chunk_index": 2,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "5\nBlank line\n2.2\nHeading of section 2 to chapter 2\nparagraph 6 pt\n2.2.1 Heading. Note: There must be no period after the last digit of each bullet point. 2.2 Title page and page numbering\nThe title page of a thesis is to be designed according to the current version of the study and\nexamination regulations or the internship regulations. For all WA, samples of the title pages\nto be used and the font recommended by the university (\"Source Sans Pro\"), or the font agreed\nupon with the mentor, are to be used. All templates are available on the Board of Examiners\nwebsite. With the exception of the title page, the blocking note, the brief summary, and the statement\nof independence, all pages must be numbered with a page number. The text portion of the\npaper shall be numbered consecutively using Arabic numerals (beginning with the number 1). All other parts of the paper are numbered consecutively with Roman numerals. The page\nnumber should be placed at the top or bottom right margin in the header or footer, respectively. All pages are to be written on one side. 2.3 Layout\n(underlined points are requirements, otherwise recommendation)\nPaperformat: DIN A4, white, written on one side only\nMargins: left 2.5 cm, right 2.5 cm, top 2.5 cm, bottom 2 cm\nLine spacing: 1 ½ -line or 15 pt\nFont type, size: recommended font (e.g. \"Source Sans Pro\"), 11 pt\nHeadings: bold, not underlined, or 12 pt\nParagraph: paragraph separation with a blank line, no indentation, justification\nPage numbering: in the text part consistently at the top or bottom right in the header or\nfooter",
+      "metadata": {
+        "source": "Guide_for_writing_scientific_Papers_2022",
+        "page": 5,
+        "type": "semantic_text",
+        "section": "2.4 Declaration of independence, blocking note, short summary (abstract)",
+        "context": "including the software indicated or described, have been used.",
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "Paragraph: paragraph separation with a blank line, no indentation, justification\nPage numbering: in the text part consistently at the top or bottom right in the header or\nfooter\nExceptions for font size and line spacing are only permitted for longer direct quotations, which\nshould absolutely be in the text and not in the appendix for the course of the argument. Formulas are to be started indented and included in the punctuation. Leave one line free\nbefore and after formulas! 2.4 Declaration of independence, blocking note, short summary (abstract)\nA declaration of self-sufficiency with the following or an analogous wording must be\nsubmitted with each WA. Iwe hereby declare that the work has been written independently, that it has not yet\nbeen submitted in the same or a similar version in another degree program as an\nexamination performance, and that no aids and sources other than those indicated, including the software indicated or described, have been used.",
+      "metadata": {
+        "source": "Guide_for_writing_scientific_Papers_2022",
+        "page": 5,
+        "type": "semantic_text",
+        "section": "2.4 Declaration of independence, blocking note, short summary (abstract)",
+        "context": "including the software indicated or described, have been used.",
+        "chunk_index": 2,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "6\nPlace, date, signature\nThis declaration must be signed by all authors involved. If confidential company matters are addressed in the work, the work or parts thereof can be\nmarked by the company with a blocking note (usually immediately following the title page of\nthe WA) on a header sheet, which is to be formulated as follows. The content of the work may not be made available to third parties without the\npermission of the (name of company). This blocking notice is valid for a period of X\nyears. Date, stamp and signature (of the companysupervisor issuing the blocking notice)\na student cannot issue a blocking notice for hisher work! The display of a blocking notice means that the thesis or the contents of the thesis are only\navailable to the two reviewers for evaluation. After the colloquium on the final paper or term\npaper, it may not be further used or published - even upon request. Notes: Outstanding scientific theses with a blocking notice can therefore also not be\nsubmitted for an award (e.g. VDE or IMT prize). Blocking notices can only be issued by the companies involved in the work (stamp and\nsignature of those authorized to do so). Students cannot issue a blocking notice to their\nwork themselves. The WA must be preceded by a short summaryabstract of no more than one page. It is to\nbe structured as follows: Information about the author(s)\nTitle of the work\nType of thesis (Bachelor  Master.)\nShort summary  description of the work\nYear\n2.5 Scope of work\nThe following page numbers for the text part of the paper should not be exceeded. Listings,",
+      "metadata": {
+        "source": "Guide_for_writing_scientific_Papers_2022",
+        "page": 6,
+        "type": "semantic_text",
+        "section": "2.5 Scope of work",
+        "context": "with the reviewers prior to submission of the paper.",
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "Type of thesis (Bachelor  Master.)\nShort summary  description of the work\nYear\n2.5 Scope of work\nThe following page numbers for the text part of the paper should not be exceeded. Listings, source codes, layouts, circuit diagrams, cable diagrams, multi-page tables, business process\nmodels, etc. should be presented as an attachment or in the appendix of the paper. Exceptions\nare to be agreed upon with the respective mentor. Term paper on the professional internship: approx. 20 - 25 pages\nBachelor thesis: approx. 40 pages\nMaster and diploma thesis: approx. 60 - 80 pages\nIf complex issues require an extended scope, this should be agreed upon and coordinated\nwith the reviewers prior to submission of the paper. Introduction\nIntroduction (max. 3 pages)",
+      "metadata": {
+        "source": "Guide_for_writing_scientific_Papers_2022",
+        "page": 6,
+        "type": "semantic_text",
+        "section": "2.5 Scope of work",
+        "context": "with the reviewers prior to submission of the paper.",
+        "chunk_index": 2,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "7\nIntroduction to the field, focus of the work\nMention of the company and the field of activity (if the WA is carried out in a company). Detailed analysis and explanation of the task\nWhat was already available at the beginning of the work, which boundary conditions are given? What means and techniques are available? What is the main focus of the work? Which solution variants are possible or given? In which work steps should the task be processed? Main part\nLevel of knowledge in the field to be worked on\nAfter conducting a literature search, essential standards and emerging trends are to be\ndiscussed in a short and concise form (references to the evaluated sources, where can the\nreader obtain further information?). In this section, the author should demonstrate that he or she is familiar with the major\ndevelopment trends in the relevant field. The reader should receive a concise introduction to\nthe subject area. Development of the solution concept (own share must be recognizable)\nDiscussion of alternative approaches to the solution, justification of the choice of solution. What are the individual stages of the topic processing, justification of the selected work steps. Which means and techniques (e.g. tools for software) should be used for processing? As a\nbasic rule: Simple facts are to be presented simply, difficult facts are to be described simply. Presentation of the results achieved in the course of working on the topic\nExplanation of the elaborated results, generalization and derivation of conclusions. Discussion of the results with regard to the requirements set out in the assignment. Use of graphics and clear examples, reference to further information in the appendices (e.g.",
+      "metadata": {
+        "source": "Guide_for_writing_scientific_Papers_2022",
+        "page": 7,
+        "type": "semantic_text",
+        "section": "2.5 Scope of work",
+        "context": "The list of abbreviations is to be aligned using tabs and arranged alphabetically.",
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "Discussion of the results with regard to the requirements set out in the assignment. Use of graphics and clear examples, reference to further information in the appendices (e.g. excerpts from the source code of software developed during the period under review or\nreferences to the appendix). Close (ConclusionOutlook)\nSummary (max. 3 pages)\nSummary of the main results. Evaluation of the solutions implemented so far, status of testing. Starting points for further work. 3\nSpelling and grammar\nThe official guidelines of the new German spelling are to be bindingly applied in the preparation\nof the work. Poor style, orthographic and grammatical errors will affect the grade of the paper. The list of abbreviations must not include abbreviations that are already listed in the Duden. The list of abbreviations is to be aligned using tabs and arranged alphabetically.",
+      "metadata": {
+        "source": "Guide_for_writing_scientific_Papers_2022",
+        "page": 7,
+        "type": "semantic_text",
+        "section": "2.5 Scope of work",
+        "context": "The list of abbreviations is to be aligned using tabs and arranged alphabetically.",
+        "chunk_index": 2,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "8\n4\nCitation technique and bibliography\n- Citation technique\nVarious forms (EIT, MB, MT, WIW, etc.) are acceptable for citing literature sources (coordinate\nthis with your mentor before writing the paper): 1. References are marked in the form \"[X]\" immediately following the text or facts in the\npaper. The bibliography is part of the sentence and is not separated. Example: The standardization of the described technology already took place in 2020\n[1]. In the bibliography, the literature source is then to be indicated as follows: [1] Bartneck, N.: Klaas, V.; Schönherr, H. [eds]: Optimizing processes with RFID and\nAuto-ID: fundamentals, problem solving and application examples. 1st ed., Publicis\nCorporate Publishing, 2019, p. 59 ff. 2. Footnotes, which normally serve to further explain the continuous text, can also be\nused for source citations. All source citations are given on the page where they are\nfirst used. Example: Standardization of the described technology already took place in 2021.5\nThe literature source must then be indicated in the footer as follows: 5 Bartneck, N.; Klaas, V.; Schönherr, H. [Hrsg.]: Prozesse optimieren mit RFID und Auto-ID: Grundlagen, Problemlösung und Anwendungsbeispiele. 1. Aufl., Publicis Corporate Publishing, 2019, S. 59 ff. For any further use of this source, it is then sufficient to indicate the author, an\nabbreviated form of the title, the reference \"a.a.O.\" and, if applicable, the page\nnumber.",
+      "metadata": {
+        "source": "Guide_for_writing_scientific_Papers_2022",
+        "page": 8,
+        "type": "semantic_text",
+        "section": "12 Bartneck, N.: Prozesse optimieren mit RFID, a.a.O., S. 63 ff.",
+        "context": "abbreviated form of the title, the reference \"a.a.O.\" and, if applicable, the page",
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "For any further use of this source, it is then sufficient to indicate the author, an\nabbreviated form of the title, the reference \"a.a.O.\" and, if applicable, the page\nnumber. 12 Bartneck, N.: Prozesse optimieren mit RFID, a.a.O., S. 63 ff.",
+      "metadata": {
+        "source": "Guide_for_writing_scientific_Papers_2022",
+        "page": 8,
+        "type": "semantic_text",
+        "section": "12 Bartneck, N.: Prozesse optimieren mit RFID, a.a.O., S. 63 ff.",
+        "context": "abbreviated form of the title, the reference \"a.a.O.\" and, if applicable, the page",
+        "chunk_index": 2,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "9\n3. References in economics (WIW) are usually given according to the Harvard citation\nstyle immediately following the text or facts in the paper in the form \"(author year, page\nnumber)\". Example: Demanders are customers of a company if you buy or have bought services\nof the company (Homburg 2020, p. 3). In the bibliography, the literature source (when sorted alphabetically by last name)\nshould then be indicated as follows: Homburg, C. (2020): Marketingmanagement: Strategie - Instrumente - Umsetzung - Unternehmensführung, 7th ed. - Figures and tables\nAll figures and tables used in the text must be listed and numbered in the appropriate separate\nindexes. If possible, use a vector graphic format for figures to ensure high quality. If you have adopted figures or tables one-to-one, either a footnote to this effect or a precise\ncaption must be inserted below the figuretable. When copying figures  tables, the source\nmust be indicated in each case. In the case of figurestables that you have modified according\nto an external template, the caption must always contain the words cf.. Figures can be left-\naligned, right-aligned or embedded in the text. FIGURES\nFig. 99: titel\n(Source: (cf.) [X] Krüger, W.; Pfeiffer, P.: Strategische Ausrichtung, 1988, p. 9.) [X] stands for a digit in the\nbibliography and list of sources. Figures and tables must not be used separately as gap fillers. In any case, a reference to them\nmust be recognizable in the text. - Bibliography and sources",
+      "metadata": {
+        "source": "Guide_for_writing_scientific_Papers_2022",
+        "page": 9,
+        "type": "semantic_text",
+        "section": "FIGURES",
+        "context": "contribution, the page number must be given.",
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "bibliography and list of sources. Figures and tables must not be used separately as gap fillers. In any case, a reference to them\nmust be recognizable in the text. - Bibliography and sources\nAll sources mentioned must be included in the bibliography or list of sources either in the\norder of their numbering or in alphabetical order in complete form. Example: [X] Bartneck, N.; Klaas, V.; Schönherr, H. [Eds:] Optimizing processes with RFID and Auto-\nID: fundamentals, problem solving and application examples. 1st ed., Publicis Corporate\nPublishing, 2019, p. 59 ff. If you cite several works by one author, put the most recent publication first. If you cite an author who is not at the same time the sole editor of the book - for example, in\nthe case of anthologies or conference proceedings - you must include the overall editor as\nwell as the author of the cited individual contribution in the bibliography. For the individual\ncontribution, the page number must be given.",
+      "metadata": {
+        "source": "Guide_for_writing_scientific_Papers_2022",
+        "page": 9,
+        "type": "semantic_text",
+        "section": "FIGURES",
+        "context": "contribution, the page number must be given.",
+        "chunk_index": 2,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "10\nExample: [X] Strommer, W.: Dienstleisterauswahl und Projektmanagement: Strategien für den\nMittelstand. In: Haasis, K., Zerfaß, A. [Hrsg.]: Digitale Wertschöpfung. dpunkt-Verlag, 1999, S. 37\nWhen citing journal articles, be sure to give the exact issue and page number! Examples: [X] Ehrenberg, D., Winand, U.: Virtuelle Aus- und Weiterbildung. In: Wirtschaftsinformatik\n43 (2001) 1, S. 3 - 4. If the literature has more than three editors, the authors are listed in this form: [X] Alewell, K. et al. If there are several places of publication, e.g. Berlin, New York, Heidelberg., it is sufficient to\nspecify Berlin and others. Internet sources\nWhen quoting Internet sources, these must also be clearly identified. The complete link and\nthe date of access must be documented. For the following three cases, you should use the specified citation method. Example 1: An author is indicated in the Internet source. [X] Sauerbrey, R.: Bachelor in Deutschland? http:www.zeit.de202107Bachelor_in_Deutschland_ (20.07.2021, 12:30 Uhr)\nExample 2: Only the domain name is known from the Internet source. [X] SAP AG: Small and medium enterprises\nhttp:www.sap.comgermanysmeindex.epx (20.07.2021, 12:37 Uhr)\nExample 3: The cited source could be downloaded as a separate file (PDF, DOC, PPT and the\nlike).",
+      "metadata": {
+        "source": "Guide_for_writing_scientific_Papers_2022",
+        "page": 10,
+        "type": "semantic_text",
+        "section": "43 (2001) 1, S. 3 - 4.",
+        "context": "relevant information on the university's websites.",
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "Example 3: The cited source could be downloaded as a separate file (PDF, DOC, PPT and the\nlike). [X] SAP AG [Hrsg.]: mySAP.com Workplace (Fact Sheet); http:www.sap.comgermanyindex.epx (20.07.2010, 12:40), saved as: mysap.pdf\nFor other possible cases, use the citation technique mutatis mutandis. Whatever form of citation and presentation you choose, make sure you use one form\nthroughout! It is recommended to use the Citavi software for all literature and internet sources when\npreparing the thesis. The university library can provide further advice on this. You can find\nrelevant information on the university's websites.",
+      "metadata": {
+        "source": "Guide_for_writing_scientific_Papers_2022",
+        "page": 10,
+        "type": "semantic_text",
+        "section": "43 (2001) 1, S. 3 - 4.",
+        "context": "relevant information on the university's websites.",
+        "chunk_index": 2,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "11\n5\nSources of information\nAs a matter of principle, use only scientific literature. Quotations from the \"tabloid press\" or\ntrivial literature are not suitable to substantiate or corroborate scientific thoughts, but can be\nused if evaluated accordingly. Likewise, Wikipedia, encyclopedias, course scripts, and the like\nshould not be used as primary literature. If possible, choose only the most recent edition of a book or the source of the first publication\nof the statement Exception: you want to give a historical reference. 6\nFurther reading\nKarmasin, M., Ribing, R.: Die Gestaltung wissenschaftlicher Arbeiten. UTB, 2006\nDIN 5008, Schreib- und Gestaltungsregeln für die Textverarbeitung. Beuth, 2001\nPräsentationstechnik für Dissertationen und wissenschaftliche Arbeiten. Beuth Verlag, 2000\nGrieb, W.: Schreibtipps für Diplomanden und Doktoranden. VDE Verlag, 1999\nWerder, L.: Kreatives Schreiben von Diplom- und Doktorarbeiten. Schibri-Verlag, 1998\nWord 2007, Wissenschaftliche Arbeiten, Handbuch des RRZN Hannover, Juni 2009\nWord2010, Wissenschaftliche Arbeiten und große Dokumente, Handbuch des RRZN\nHannover, Juni 2011\nHering, H., Hering, L.: Technische Berichte. Verständlich gliedern, gut gestalten, überzeugend vortragen. Springer Vieweg, Wiesbaden, 2015",
+      "metadata": {
+        "source": "Guide_for_writing_scientific_Papers_2022",
+        "page": 11,
+        "type": "semantic_text",
+        "section": "43 (2001) 1, S. 3 - 4.",
+        "context": "überzeugend vortragen. Springer Vieweg, Wiesbaden, 2015"
+      }
+    }
+  ]
+}

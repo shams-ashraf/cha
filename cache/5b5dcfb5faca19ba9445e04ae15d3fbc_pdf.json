@@ -1,0 +1,565 @@
+{
+  "chunks": [
+    {
+      "content": "How to write a thesis\nContent\n1 Basics for success. 2\n2 Formalities. 3\n2.1 Components of the student thesis. 3\n2.2 Structure of the thesis. 4\n3 Outer shape. 5\n3.1 Font. 5\n3.2 Page layout. 6\n3.3 Recurring Elements. 6\n4 Quotes. 6\n4.1 Citation bracket. 6\n4.2 Bibliography. 7\n4.3 Technique of citation. 8\n5 Literature research. 9\n5.1 Search engines (selection). 9\n5.2 Techniques. 10\n5.3 Reading a Source I (Papers). 10\n5.4 Reading a Source II (Longer Works). 11\n5.5 Evaluating a Source. 11\n6 Style. 12\n7 Best Practice. 15\n8 Time management. 18\n9 tips for practical elaborationimplementation. 19\n10 procrastination techniques (procrastination). 20\n11 Notes on the presentations. 20\n11.1 Defense. 20\n11.2 QA session. 21\n11.3 Miscellaneous. 21\n12 Evaluation Criteria. 22",
+      "metadata": {
+        "source": "ScientificWritning_pw ",
+        "page": 1,
+        "type": "semantic_text",
+        "section": "13 Recommended Reading ..................................................................................... 22",
+        "context": "10 procrastination techniques (procrastination) ....................................................... 20",
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "11.2 QA session. 21\n11.3 Miscellaneous. 21\n12 Evaluation Criteria. 22\n13 Recommended Reading. 22",
+      "metadata": {
+        "source": "ScientificWritning_pw ",
+        "page": 1,
+        "type": "semantic_text",
+        "section": "13 Recommended Reading ..................................................................................... 22",
+        "context": "10 procrastination techniques (procrastination) ....................................................... 20",
+        "chunk_index": 2,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "14 Recommendations for AI Use. 24\n15 Assessment. 25\n16 Common Failures. 25\n1 Basics for success\nThe following factors make a good scientific paper: Clear problemobjective\nLogical, structured structure\nClean use of terms, plausibility\nComprehensible structure of thought (through clean structure, argumentation, references, objectivity, etc.)\nAccuracy in terms of content and form\nSystematic approach and critical questioning of the results\nInteresting presentation of facts (e.g. also through successful illustrations, etc.)",
+      "metadata": {
+        "source": "ScientificWritning_pw ",
+        "page": 2,
+        "type": "semantic_text",
+        "section": "1 Basics for success",
+        "context": "Interesting presentation of facts (e.g. also through successful illustrations, etc.)"
+      }
+    },
+    {
+      "content": "Figure 1 The study deals with a recognizable subject that is so precisely defined that it is also recognizable to third\nparties. The study must be useful to others. The study must say things about this subject that have not yet been said, or it must view things that have already been said from a new perspective. the study must contain information that\nmakes it possible to verify whether its hypotheses are false or true. It must therefore contain information that makes it\npossible to continue the debate in the scientific community. try to view the work objectively. 2 Formalities\n2.1 Components of the student thesis\nPlease use the templates, especially to have the title page, the declaration of\nindependence and all directories automatically generated. The thesis is to be written\naccording to the following structure: Title page with the following contents: see specification\nAssignment: Copy the text of the assignment unchanged and in its entirety\nDeclaration of independence",
+      "metadata": {
+        "source": "ScientificWritning_pw ",
+        "page": 3,
+        "type": "semantic_text",
+        "section": "2.1 Components of the student thesis",
+        "context": "Assignment: Copy the text of the assignment unchanged and in its entirety"
+      }
+    },
+    {
+      "content": "Abstract (half a page each): It must stand on its own and provides an overview of\nthe complete thesis (including results). Do not use or introduce abbreviations! No references to parts of the work! Table of Contents: Listing no deeper than 3rd level\nSymbolFormulaAbbreviation List (optional): Symbolism and terms used can be\ncollected here in one place\nthe actual text of the thesis: This is where the first chapter (introduction) and\nthe page count begin. The chapters are numbered decimal (do not use more than\n4 levels of structure, better 3)\nBibliography\nList of figures (optional)\nTable directory (optional)\nGlossary (optional)\nAppendix (optional, alphabetical numbering of chapters)\n2.2 Structure of the thesis\nThe IMRAD (Introduction, Methods, Results and Discussion) scheme is a common\nstandard. Proposal for structuring: Chapter 1 Introduction Motivate the problem in the application context, describe the\ntask in your own words and give an overview of the work. Chapter 2 Basics Presentation of mathematical, technical, algorithmic or other basic\nknowledge in order to understand the work. Chapter 3 Related Works To show who has already dealt with the topic or similar\nrelated topics, which solutions have been described and what the connection of the\nrespective to one's own work is. Chapter 4 (or more) Methods and Implementation Main part of the thesis: first\ndescribe the concept, then the realization. Chapter 5 Results Presenting the results objectively and describing how exactly the\nresults were collected. Draw attention to special features. Chapter 6 Discussion Discuss the implemented solution based on the results.",
+      "metadata": {
+        "source": "ScientificWritning_pw ",
+        "page": 4,
+        "type": "semantic_text",
+        "section": "2.2 Structure of the thesis",
+        "context": "\"Discussion\" can be combined into a common chapter.",
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "describe the concept, then the realization. Chapter 5 Results Presenting the results objectively and describing how exactly the\nresults were collected. Draw attention to special features. Chapter 6 Discussion Discuss the implemented solution based on the results. Understand and explain special features. Based on this, work out the pros and cons (of\nthe developed process). Under certain circumstances, the chapters \"Results\" and\n\"Discussion\" can be combined into a common chapter.",
+      "metadata": {
+        "source": "ScientificWritning_pw ",
+        "page": 4,
+        "type": "semantic_text",
+        "section": "2.2 Structure of the thesis",
+        "context": "\"Discussion\" can be combined into a common chapter.",
+        "chunk_index": 2,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "Chapter 7 Summary Short summary and evaluation, the resultssolutions are\ncondensed into a conclusion. Chapter 8 Outlook The outlook shows sensible possibilities for further processing of\nthe material. Chapters \"Summary\" and \"Outlook\" may be combined into a common one. 3 Outer shape\nIt's best to use a template\n3.1 Font\nContinuous text in serif font creates good readability. Headlines can look nice in sans\nserif bold. Font sizes to use: Body text: 11 pt\nHeadings (h1-h2-h3): 18 pt; 14 pt; 12 pt\nDo not choose line spacing too large: 1.2 times is advisable. Font markup\nEmphasis can be realized by italics, bold, capitals, small caps and the font family. But\ndon't use several AT ONCE! Underlining is taboo, bold font and capital letters should be\nused as sparingly as possible! For source code, a monospace font is recommended (e.g. Courier New). Free variables\nand free function names should be set in italics, but signs with a fixed meaning should\nnot. The latter are well-known functions (e.g. sincos, lim), constants (e.g. Euler's\nnumber e, the circle number π or your own chosen constant symbols) or unit symbols\n(e.g. ms, kHz). Mathematical variable names never consist of multiple letters! If more\ncharacters are needed for clarification, they can appear in the subscript (also not\nitalicized). Examples of font markup in formulas: False: func(x)  πxmaxsin(2x)",
+      "metadata": {
+        "source": "ScientificWritning_pw ",
+        "page": 5,
+        "type": "semantic_text",
+        "section": "3.1 Font",
+        "context": "to mention non-independent literature (articles from conference proceedings or",
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "italicized). Examples of font markup in formulas: False: func(x)  πxmaxsin(2x)\nCorrect: f(x)  πxmaxsin(2x)\nItalic text can also be used to identify (self-introduced) technical terms and foreign\nlanguage words (including the abbreviations et al., e. g., i. e.), bold text is used to identify\nkeywords. Furthermore, italics are used when naming independent work titles\n(monographs, books). Quotation mark\nDo not use the quotation marks \"\" to mark words, but only to quote passages of text or\nto mention non-independent literature (articles from conference proceedings or\njournals, essays, book sections).",
+      "metadata": {
+        "source": "ScientificWritning_pw ",
+        "page": 5,
+        "type": "semantic_text",
+        "section": "3.1 Font",
+        "context": "to mention non-independent literature (articles from conference proceedings or",
+        "chunk_index": 2,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "3.2 Page layout\nThe page numbers begin on the right (odd) side with the introduction. Chapter\nbeginnings are always on a right (odd) page. If necessary, the previous (left) page\nremains empty. 3.3 Recurring Elements\nFigures\nare according to the scheme Fig.Chapter No..lfd.Nr.:title. These are\nsignatures. Find a meaningful title. The illustration must be self-explanatory along with\nits title. Pay attention to high quality, prefer vector graphics. Furthermore, make sure that\nthe individual parts of the image are sufficiently large and that the captions are\nsufficiently large for easy readability. Tables\nare according to the schedule of Table Chapter No..lfd.Nr.:title. These are\nheadings. As with illustrations, a meaningful title is important. Source code\nare according to the scheme ListingChapter No..lfd.Nr.:title,filename. Signatures can be used for short code passages, otherwise headings. Footnotes\nfor annotations or translations. If the footnote refers to a word, the footnote mark is\nimmediately after it. If it refers to a sentence, it is immediately after the sentence period. Be sparing with footnotes. Think about how the content can possibly be sensibly\naccommodated in the text. 4 Quotes\nAll sources used (texts, images, surveys, links, etc.) must be cited! In the bibliography, indicate who the author is and where the content was found (books, papers,",
+      "metadata": {
+        "source": "ScientificWritning_pw ",
+        "page": 6,
+        "type": "semantic_text",
+        "section": "4.1 Citation bracket",
+        "context": "area or type of work, it varies and occurs as a numerical specification (IEEE style) or",
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "4 Quotes\nAll sources used (texts, images, surveys, links, etc.) must be cited! In the bibliography, indicate who the author is and where the content was found (books, papers, presentation slides, websites, etc.). The reader must be given a complete overview of\nthe sources used and their origin (especially in the case of non-printed media). What you\ndon't have to do: Get permission from the respective author. 4.1 Citation bracket\nIt is used in the body text to refer to the respective source. Depending on the subject\narea or type of work, it varies and occurs as a numerical specification (IEEE style) or",
+      "metadata": {
+        "source": "ScientificWritning_pw ",
+        "page": 6,
+        "type": "semantic_text",
+        "section": "4.1 Citation bracket",
+        "context": "area or type of work, it varies and occurs as a numerical specification (IEEE style) or",
+        "chunk_index": 2,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "alphanumeric specification (AMS style, authorship trigraph). Observe the following rules\nfor theses (it is easier to use a chair template): 1 author: the first three letters of the surname  year of publication. e.g. [Mei05]\n2 - 4 authors: the first letters of the last names (in the order as in the paper)  year\nof publication. e.g. [AB10], [XYZ15], [STUV12]\n4 authors: the first letters of the first 3 surnames, then a \"\", then the year of the\npub.. e.g. [XYZ04]\nIn the case of several works by an author in one year, small letters are appended\nto the year. e.g. [Mei05a], [Mei05b]\nif there are several sources for a text passage, they are separated by commas\nwithin a square bracket. e.g. [Mei05, XYZ04]\nIf reference is made to a specific part of the source, this can be indicated in the\nbibliography or in the citation bracket by indicating the page number. e.g. [Mei05, p.99]\n4.2 Bibliography\nIn the numerical variant, the sources in the bibliography are sorted according to their\nfirst occurrence in the text. The alphanumeric variant is sorted by the content of the\nparenthesis. The structure of an entry in the bibliography is always a bit different, depending on whether it is a conference paper or a book (chapter) (due to different\ninformation to be provided). For example, a conference contribution is structured as",
+      "metadata": {
+        "source": "ScientificWritning_pw ",
+        "page": 7,
+        "type": "semantic_text",
+        "section": "4.2 Bibliography",
+        "context": "Recommendation: use tools like Citavi (licensed) or Zotero",
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "depending on whether it is a conference paper or a book (chapter) (due to different\ninformation to be provided). For example, a conference contribution is structured as\nfollows (according to the CGV scheme): [XYZ99]  Last nameIn small caps1,First name1;Last Name2,First\nName2;LastName3,First Name3:Title of the paper.In:Proceedings of the\nitalic conference on anything Vol. X(Y),Location,Year,PagePageX-PageY\nFor sources from the web, always write the URLlink and the research date. If possible, archive a copy of the Internet source. Surveysconversations are also sources. The\nfollowing should be noted here: [Mei15]  Last Name1,First\nName1(Interviewee);LastName2,FirstName2(Interviewer):Title of the\nconversation.Phoneface-to-facewritten\ninterviewconversationsurvey.Location,Date,Time\nRecommendation: use tools like Citavi (licensed) or Zotero",
+      "metadata": {
+        "source": "ScientificWritning_pw ",
+        "page": 7,
+        "type": "semantic_text",
+        "section": "4.2 Bibliography",
+        "context": "Recommendation: use tools like Citavi (licensed) or Zotero",
+        "chunk_index": 2,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "4.3 Technique of citation\nWord-for-word (direct) quotation Useful for definition and statements that could not be\ndescribed more accurately. Is in quotation marks if it is no longer than 4 lines. Otherwise, it is marked with an indentation of the entire quotation block (then without quotation\nmarks). Directly after the quote is the source in the running text (Harvard method). Word-\nfor-word quotations must be taken honestly and verbatim, no reformulations or\nabbreviations that distort the meaning may be made. Text highlighting or errors in the\noriginal text must also be taken over (these can be marked with a [sic]. Latin for \"so\" or\n\"really so\"). Double quotation marks are replaced by single quotation marks in the quote. Omissions must be marked with [.] (be careful not to distort the meaning of the original). Adaptations of the original, e.g. to the grammatical case of one's own work, should be\nwritten directly in square brackets to the relevant passage as well as when inserting words\nor highlighting them (write a clear comment in the square brackets, e.g. [emphasis\nadded]). Word-for-word quotes should be used sparingly! Analogous (indirect) quotation Here, the content of sentences or paragraphs from the\noriginal literature is reproduced in the same way. The strict rules of verbatim quotation do\nnot apply, but here too no thoughts may be falsified, omitted or added. In the\nsentenceparagraph that includes the thought content of the external source, there must",
+      "metadata": {
+        "source": "ScientificWritning_pw ",
+        "page": 8,
+        "type": "semantic_text",
+        "section": "4.3 Technique of citation",
+        "context": "okay: The study by [MYZ+01] describes that this \"[...] decisive factors.\"",
+        "chunk_index": 1,
+        "total_chunks": 3,
+        "is_split": true
+      }
+    },
+    {
+      "content": "not apply, but here too no thoughts may be falsified, omitted or added. In the\nsentenceparagraph that includes the thought content of the external source, there must\nbe a \"sound\", \"according to\" or similar. In the case of an analogous quotation, the citation\nbracket is placed before the sentence period if it only goes over one sentence. If the\nquotation is several sentences long, the citation bracket is placed after the sentence\npoint of the last sentence of the quotation. Images from external sources must be reproduced unchanged or the changes must be\nclearly identified. The source reference belongs at the end of the caption (in square\nbrackets). If a third-party illustration was used as a template for a separate figure, an\nindication is also required, e.g. \"according to [XY01, Fig. X.Y2]\". \"Second-hand\" quotes are those in which a source is cited, the content of which is a\nquotation on the actual material. Such quotes are to be avoided! An exception is the\nunavailability of the original source, but this rarely happens. A second-hand citation must\nbe marked with the note \"cited by\", e.g. \"[MXY01] cited after [XY01]\" (in this case, [MXY01] would be the original source and [XY01] would be the cited source). Both works\nmust be listed in the bibliography. Good style\nis to mention the authors of an external source by name - if there are more than two\nauthors, use the form \"SurnameofFirst Author et al.\" - but it is also possible to use the\ncitation clip directly for this. Examples: Direct quote:",
+      "metadata": {
+        "source": "ScientificWritning_pw ",
+        "page": 8,
+        "type": "semantic_text",
+        "section": "4.3 Technique of citation",
+        "context": "okay: The study by [MYZ+01] describes that this \"[...] decisive factors.\"",
+        "chunk_index": 2,
+        "total_chunks": 3,
+        "is_split": true
+      }
+    },
+    {
+      "content": "authors, use the form \"SurnameofFirst Author et al.\" - but it is also possible to use the\ncitation clip directly for this. Examples: Direct quote: okay: The study by [MYZ01] describes that this \"[.] decisive factors.\"",
+      "metadata": {
+        "source": "ScientificWritning_pw ",
+        "page": 8,
+        "type": "semantic_text",
+        "section": "4.3 Technique of citation",
+        "context": "okay: The study by [MYZ+01] describes that this \"[...] decisive factors.\"",
+        "chunk_index": 3,
+        "total_chunks": 3,
+        "is_split": true
+      }
+    },
+    {
+      "content": "better: Meier et al. describe in their study that this \"[.] decisive factors.\" [MXY01]\nIndirect quote: okay: According to [MS01], there are various decisive factors for this. better: According to Meier and Schmidt, there are various decisive factors [MS01]. not so good: There are various decisive factors for this (cf. [MS01]). 5 Literature Research\nValuable sources should be used, e.g. papers from reputable conferences with review\nsystems or those that have already been cited frequently. Printed sources tend to be\nmore reputable and should be preferred to web sources such as forums, tutorials or\nWikipedia. Wikipedia can be a first point of contact, but it is scientifically controversial. It is better to look for \"real\" literature from there. Basic problems: Usually only one paper is given by supervisors\nyou yourself lack an overview of the subject area\nTheres a lot of literature out there, and a lot of it is bad\nthere is no time for an exhaustive search\nStrategy: Read the given paper in its entirety (sometimes several times), write down\nimportant technical terms (buzzwords)\nRead related work again, develop a feel for the subject area\nexamine related works: usually it is enough to read the abstract and the\nresultsdiscussion to get an impression\nLiterature divides: relevant recent papers, review articles (STARs) as source\nresources, older papers (good candidates for reverse searches)\nThese means (STARs, old papers, buzzwords, names of major conferences) are the basis\nfor further research. Where should you look? 5.1 Search engines (selection)",
+      "metadata": {
+        "source": "ScientificWritning_pw ",
+        "page": 9,
+        "type": "semantic_text",
+        "section": "5.1 Search engines (selection)",
+        "context": "IEEE Xplore Digital Library http://ieeexplore.ieee.org",
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "These means (STARs, old papers, buzzwords, names of major conferences) are the basis\nfor further research. Where should you look? 5.1 Search engines (selection)\nACM Digital Library http:dl.acm.org\nIEEE Xplore Digital Library http:ieeexplore.ieee.org\nGoogle Scholar http:scholar.google.com\nCiteSeer http:citeseerx.ist.psu.eduindex\nMicrosoft Academic Search http:academic.research.microsoft.com",
+      "metadata": {
+        "source": "ScientificWritning_pw ",
+        "page": 9,
+        "type": "semantic_text",
+        "section": "5.1 Search engines (selection)",
+        "context": "IEEE Xplore Digital Library http://ieeexplore.ieee.org",
+        "chunk_index": 2,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "Anhalt University of Applied Sciences has a subscription to many online portals, so you\ncan download papers or books listed there free of charge. (Link)\nAI tools (very dynamic, only exemplary)\nhttps:elicit.com\nhttps:ask.orkg.orgde\nhttps:researchrabbitapp.com\nhttps:scite.ai\nhttps:www.semanticscholar.org\n5.2 Techniques\nFind new works through older ones Search for the older publication. Then display the\npapers that cite the older work -- this option is usually called \"Referenced by\" \"Cited\nby\". Then search for the displayed (new) work. Find new work through buzzwords Enter buzzwords in search engine. Sort by\npublication date and number of citations. Skimming the first hits (new buzzwords may\nopen up). Possibly search for research groups that are known in the specific problem\narea and comb through their publication lists. New work through conferences After you have found relevant research fields and\nkeywords, you can search for major conferences in these fields. Look through the\npublication lists there and then do more research. New works by well-known authors Search for publication lists of authors who are\nfrequently mentioned in the relevant subject area or whose names appear frequently in\nthe bibliography. Note the order in which the author is named in the header of a paper. The first author is the author of (most of) the work. On the far right, the head of the\ndepartmentinstitutechair is typically the supervisor of the thesis. 5.3 Reading a Source I (Papers)\nStart with the abstract and resultsdiscussion section to quickly get to the essential",
+      "metadata": {
+        "source": "ScientificWritning_pw ",
+        "page": 10,
+        "type": "semantic_text",
+        "section": "5.3 Reading a Source I (Papers)",
+        "context": "contributions in other papers? To compile and follow up on a list of these cited",
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "departmentinstitutechair is typically the supervisor of the thesis. 5.3 Reading a Source I (Papers)\nStart with the abstract and resultsdiscussion section to quickly get to the essential\ninformation. Ask the following questions to the source you are investigating: What are the core contributions? (They are usually at the end of the introduction)\nWhat relevance do the core contributions have for one's own work? Which results of cited publications are relevant to serve as a justification for core\ncontributions in other papers? To compile and follow up on a list of these cited\nworks.",
+      "metadata": {
+        "source": "ScientificWritning_pw ",
+        "page": 10,
+        "type": "semantic_text",
+        "section": "5.3 Reading a Source I (Papers)",
+        "context": "contributions in other papers? To compile and follow up on a list of these cited",
+        "chunk_index": 2,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "What terminology has been introduced for the relevant core contributions? Are\nthese terms interesting for your task? Can you expand your search queries with\nthe new terms? Don't panic if you don't understand everything right away: Scientific papers usually\ncontain highly condensed information. Typically, they need to be read multiple times to\nfully penetrate them. 5.4 Reading a Source II (Longer Works)\nSQ3R method: survey, question, read, repeat, review\nSurvey: Get an overview, study the table of contents: What was covered? How is\nthe text divided? What is the basis on which the author relies? What is important\nto you? Question: Formulating questions for the text: what do you expect this text to\nprovide information about for your own work? Read: Read the chapters relevant to your question\nRepeat: It's not a bad thing if you haven't completely understood everything\nwhen you read a chapter for the first time. Just repeat what you understood\n(preferably out loud). If you are stuck: Just read and repeat what you have\nunderstood (preferably out loud). If you are stuck: Just read and repeat what you\nhave understood (preferably out loud). If you are stuck: Read up and. Review: Briefly summarize the content in your own words. Have the questions to\nthe text been answered? Do new questions arise? 5.5 Evaluating a Source\nHow do you know if the source you have found is any good? Even without specialist\nknowledge, you should pay attention to the following characteristics: the work is up-to-date\nThe \"Related Work\" section is detailed\nin the introduction, the contribution of the work is clearly emphasized",
+      "metadata": {
+        "source": "ScientificWritning_pw ",
+        "page": 11,
+        "type": "semantic_text",
+        "section": "5.5 Evaluating a Source",
+        "context": "\"IEEE\" in the conference title, this is a good place to start)",
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "knowledge, you should pay attention to the following characteristics: the work is up-to-date\nThe \"Related Work\" section is detailed\nin the introduction, the contribution of the work is clearly emphasized\nthe work was often cited\nthe paper has been published at a major conference (if there is an \"ACM\" or\n\"IEEE\" in the conference title, this is a good place to start)\nScientific Journals: HS-Bibliothek\nElektronische Zeitschriftenbibliothek EZB",
+      "metadata": {
+        "source": "ScientificWritning_pw ",
+        "page": 11,
+        "type": "semantic_text",
+        "section": "5.5 Evaluating a Source",
+        "context": "\"IEEE\" in the conference title, this is a good place to start)",
+        "chunk_index": 2,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "IEEE Digital Library (http:www.computer.orgpublicationsdlib)\nACM Digital Library (http:portal.acm.orgportal.cfm)\nCiteSeer(http:citeseer.nj.nec.comcs)\nRecommendation: Trivial literature and unsecured internet sources as well as sources\nwithout reference to the source should not be used. 6 Style\nAlways use scientific language: never slang! Terms\nUse technical terms, but not to obfuscate content. The reader must understand them. If\nyou are unsure, create a glossary. Use German instead of English terms if they exist (e.g. \"Datei\" instead of \"File\" or \"Update\" instead of \"Update\"). If there is a technical term for a\nthing, use it instead of a synonym. Filler phrases\nAvoid standard clauses such as \"How easy to see.\". Do not intersperse relativizations\n(\"many\", \"often\", \"mostly\"), exaggerations (\"enormous\", \"unbelievable\"), filler words (\"yes\", \"well\"), reassurance words (\"to a certain extent\", \"somehow\", \"well\"), argumentation\nsubstitute words (\"natural\", \"self-evident\") or personal opinions. Own statements are not\nprohibited in principle, but must be critically reflected on and justified. Remain modest in\nyour explanations, do not use arrogant formulations (negative example: \"The basis is\ntrivially provided by the well-known theories from tensor arithmetic\"). Avoid wording with\n\"you\", \"we\" or \"I\". Intelligibility\nDo not write in an artificially complicated way, but in the same way as you would explain",
+      "metadata": {
+        "source": "ScientificWritning_pw ",
+        "page": 12,
+        "type": "semantic_text",
+        "section": "6 Style",
+        "context": "Bad: It is a well-known problem in computer graphics that this interface limits the",
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "\"you\", \"we\" or \"I\". Intelligibility\nDo not write in an artificially complicated way, but in the same way as you would explain\na scientific fact orally to a professor. Write short, clear sentences that eliminate ambiguity\nand are meaningful in terms of content. Terms must be clearly defined and consistency\nmust be ensured when using them. Aim for an even linguistic level, stay logical and never\nlose the thread. Stay problem-focused. Write for the reader! Rules of thumb for\ncomprehensibility: Each sentence contains a statement\nEach paragraph contains a thought\nEach section contains a group of thoughts\nExamples: Bad: It is a well-known problem in computer graphics that this interface limits the",
+      "metadata": {
+        "source": "ScientificWritning_pw ",
+        "page": 12,
+        "type": "semantic_text",
+        "section": "6 Style",
+        "context": "Bad: It is a well-known problem in computer graphics that this interface limits the",
+        "chunk_index": 2,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "possibilities, which is why some data, such as e.g. Textures are not stored in the\nconventional main memory, but are transferred once to the graphics card and stored\nthere in the graphics memory. Better: The fact that this interface limits the possibilities is a well-known problem in\ncomputer graphics. Therefore, it is common to store data such as textures in graphics\nmemory instead of conventional main memory. This means that they only have to be\ntransferred to the graphics card once. Syntax\nUse subordinate clauses sparingly: beware of box and stair sentences! Observe a clear\ndistribution of roles: main information in the main clause, secondary information in the\nsubordinate clause. Simply delete subordinate clauses without (relevant) content. Avoid\ngenitive chains. Use verbs instead of noun-auxiliary verb constructs (\"hint\" instead of\n\"hint\", \"depends\" instead of \"is dependent\"). Whenever there is a choice between a verb\nand something else: Take a verb! Do not use prepositional nesting, i.e. no more than one\npreposition (\"in, below, above, between, before, after, against.\") per sentence (negative\nexample: \"There is a connection between spaces defined above this metric\"). Write in a\npositive sense instead of a negative one: don't use double negatives and write what is and\nnot what is not. Furthermore, avoid too many passive formulations, but write them in an\nactive style. Abbreviations\nUse abbreviations sparingly and always use them clearly. Explain them at the first",
+      "metadata": {
+        "source": "ScientificWritning_pw ",
+        "page": 13,
+        "type": "semantic_text",
+        "section": "6 Style",
+        "context": "continuous text. Do not write any significant new information solely in the figure (negative",
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "not what is not. Furthermore, avoid too many passive formulations, but write them in an\nactive style. Abbreviations\nUse abbreviations sparingly and always use them clearly. Explain them at the first\noccurrence and write a list of abbreviations. Generally known abbreviations (according to\nthe Duden) do not need to be included in it. Don't rely on a reader to be able to remember\nall the abbreviations right away. If you use formulas, constants or abbreviations again\nmany pages after their first introduction, explain them again by means of a short\nrepetition. For example, write \"Here again the value α, i.e. the angle of rotation, is used\nto.\", even though you introduced the variable α 3 chapters ago. Structure\nAvoid bullet point lists, but rather write in prose form. Avoid the frequent use of forward or\nbackward references (e.g. \"As will be seen in Chapter X.\" or \"As shown in Chapter Y.\"). Pictures\nUse illustrations, tables, and diagrams to make complex textual statements more\nunderstandable (\"tangible\"), but avoid mapping trivialities. All figures or tables must be\nself-explanatory (axis labels, legends, color meaning, units, etc.). The use of an\nillustration does not make a textual description superfluous: a) the continuous text must\nalso function without an illustration and b) the illustration must not replace the\ncontinuous text. Do not write any significant new information solely in the figure (negative",
+      "metadata": {
+        "source": "ScientificWritning_pw ",
+        "page": 13,
+        "type": "semantic_text",
+        "section": "6 Style",
+        "context": "continuous text. Do not write any significant new information solely in the figure (negative",
+        "chunk_index": 2,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "example: In the running text it is described that the effects of Fig. XY occur for this or that\nreason. However, the effects themselves are only mentioned in the caption.). All figures, tables and diagrams must be referenced in the text. Every figure and every table should clearly be allocated to the respective caption. Figures\nand tables should not extend over several pages. E.g.,, as can be seen in Table x.x\nIf figures are taken from an external source and are modified, then the source has to be\nindicated as follows: (cf. [x])\nReadable illustrations only, best uniform style\nNumbers\nThe numbers \"zero\" to \"twelve\" are usually written out in continuous text, unless there is\na special emphasis on numerical size. Units are generally abbreviated without a dot (kg, km, h, min.). Between the value and the unit symbol there is a narrow non-breaking\nspace (so never wrap the line here). Avoid the sequential spelling of non-meaningful\nnumbers (negative example: \"256 64-bit registers.\"). Formulas\nA consistent style should be used and a uniform naming convention should be\nestablished for variables, function names, etc. Don't use overloaded symbolism, but still\nremain exact. If possible, avoid formulas in the running text. They disturb the flow of\nreading and sometimes sabotage the text layout. Use separate formula environments\ninstead. GNP.: The Pythagorean theorem is a fundamental theorem of (Euclidean) geometry and reads: a2  b2  c2\nThe equation holds for any right triangle if a and b are its cathetes and c is its\nhypotenuse. Do not write unnecessarily complicated and long derivations in the body. Reduce to the\nessentials (the rest in the appendix if necessary). Source code\nNever put complete parts of the source code in the main text! If at all, then only selected\nexcerpts due to special circumstances. Instead, explain the developed procedures using\nstructure and flow diagrams or pseudocode. Units\ntable 1 Annotation of table headers and coordinate axes\nfalse\nfalse\nfalse\ncorrect\ncorrect\ncorrect\ncorrect\ncorrect\nU [V]\nU\n[V]\nU\nin [V]\nU\nUV\nU\nin V\nE(Vm)\nE\nin Vm\nTABLES: false  false  false  correct  correct  correct  correct  correct\nU [V]  U\n[V]  U\nin [V]  U  UV  U\nin V  E(Vm)  E\nin Vm",
+      "metadata": {
+        "source": "ScientificWritning_pw ",
+        "page": 14,
+        "type": "table_with_context",
+        "section": "E",
+        "table_count": 1
+      }
+    },
+    {
+      "content": "0,1\n0,1\n0,1\n0,1 V\n0,1\n0,1\n0,1\n0,1\n0,2\n0,2\n0,2\n0,2 V\n0,2\n0,2\n0,2\n0,2........ A space is used between the number and the symbol to which it refers. For example: 7 m, 31.4 kg, 37 C. a 2-liter bottle, NOT a 2-L bottle\na 100-meter relay, NOT a 100-m relay\n35-millimeter film, NOT 35-mm film\nspaces are not used between prefixes and unit names nor between prefix symbols and\nunit symbols. Examples: milligram, mg (NOT milli-gram or m-g); kilometer, km (NOT kilo-\nmeter or k-m); terahertz, THz (NOT tera-hertz or T-Hz). The dot or period is used as the decimal point within numbers. For numbers less than\none, a leading zero should be written before the decimal point. Examples: 7.038 g; 0.038\ng. Source Code Listings\nTo insert source code, use the listings package\nRecommendation: Use of Grammarly or Languagetool to check grammar\n7 Best Practice\nBelow you can read tips for the chapters presented according to the IMRAD\n(Introduction, Methods, Results and Discussion) scheme. Introduction\nTABLES: 0,1  0,1  0,1  0,1 V  0,1  0,1  0,1  0,1\n0,2  0,2  0,2  0,2 V  0,2  0,2  0,2  0,2........",
+      "metadata": {
+        "source": "ScientificWritning_pw ",
+        "page": 15,
+        "type": "table_with_context",
+        "section": "7 Best Practice",
+        "table_count": 1
+      }
+    },
+    {
+      "content": "At the very beginning of the written elaboration, the introduction should provide a handy\nmotivation for the task and elegantly introduce the topic. Here, the problem is presented\nin the context of an application and the content of the thesis is briefly anticipated. What\nproblem has been solved, why is it relevant? What is the procedure? What was\nthematically limited, what was excluded? It is important to work out your own\ncontribution in a few concise sentences. (The conclusion should refer to these\ncontributions at the end in order to give the work a narrative bracket.) The introduction\nends with an overview of the work. The contents of the individual chapters are briefly\ndescribed (avoid trivial statements such as \"The results are presented in the results\nchapter 7.\"). Tip: Avoid standard intros such as \"XY is an important field of application in\ncomputer graphics\" or \"XY has become indispensable in computer graphics\". Related works\nThe aim is to show who has already dealt with the topic or similar related topics, which\nsolutions have been described and what the connection of the respective work to one's\nown is. Consider the \"4 Ws\" as a reminder: What problem was addressed? How was the\nproblem solved? What did it achieve? How does it relate to your own work? In this\nchapter, it is particularly difficult to create a common thread and prevent the text from\ndegenerating into a paper listing. There are strategies that can also be combined: chronologically or aspect-oriented. In the chronological listing, related works are\ndescribed in chronological order, thus giving a historical outline of the approaches to",
+      "metadata": {
+        "source": "ScientificWritning_pw ",
+        "page": 16,
+        "type": "semantic_text",
+        "section": "7 Best Practice",
+        "context": "should take place. Do not explain on the basis of concrete APIs or source code",
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "chronologically or aspect-oriented. In the chronological listing, related works are\ndescribed in chronological order, thus giving a historical outline of the approaches to\nsolving the problem under consideration. Typically, the first source in time is described\nmore precisely, as well as the sources that follow closer in time. Then you can jump a bit\nand concentrate on milestones. Finally, the current status should be looked at more\nclosely. The second strategy, aspect-oriented citation, provides for a division of the\npapers into aspects of one's own problem. For example, if it is about volume rendering\nwith global lighting, papers on volume rendering in general, then sources on advanced\nmethods, and finally papers on the integration of global lighting should be presented one\nafter the other (possibly even in separate sections). Basics\nHere, mathematical, technical, algorithmic and other knowledge is to be explained, but\nonly as much as is needed to understand the work. The own level of knowledge before\nstarting the thesis can be regarded as known prior knowledge. Move further basic\nknowledge or detailed mathematical derivations to the appendix. The work is not a\ntextbook. Explanations of the technical terms used may be provided here (or at the\nbeginning of the methodology chapter). Methodology and implementation\nHere, one's own work is first described conceptually, including problem analysis and the\nsearch for and finding solutions. At this point, a theoretical examination of the material\nshould take place. Do not explain on the basis of concrete APIs or source code",
+      "metadata": {
+        "source": "ScientificWritning_pw ",
+        "page": 16,
+        "type": "semantic_text",
+        "section": "7 Best Practice",
+        "context": "should take place. Do not explain on the basis of concrete APIs or source code",
+        "chunk_index": 2,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "(pseudocode, on the other hand, is allowed). Only then does the description of the\nimplementation follow. In most cases the implementation as software. Make sure you\nhave a clear and problem-related selection of code examples or (sub-)class diagrams. Detailed and comprehensive descriptions should be included in the appendix, if at all\nnecessary. Results\nHere is an objective presentation of the results. A division into quantitative evaluation\n(generation of measurement data) and qualitative evaluation (surveysexpert\nfeedbackdescription of special features) makes sense. For each evaluated fact, the\nresult should first be shown (e.g. as a figure or table), then it is described and only then\ninterpreted. An evaluation has not yet taken place. Discussion\nOnly in the discussion part can the results be critically questioned and assessed. Based\non this, the pros and cons (of the developed method) are worked out. Summary\nThe thesis is briefly summarized and evaluated; the resultssolutions are condensed into\na conclusion (here the arc is drawn to the problems raised in the introduction). An\nassessment of the general usefulness of the developed methods can be given. Tip: End\nwith something positive! In the conclusion, show the \"good\" things first, then the \"bad\". For the latter, you note that they are solvable and that the developed methods are\nnevertheless promising. View\nFinally, the outlook shows useful extensions of the developed methods or possibilities for\nfurther research. The current vulnerabilities should be explained as opportunities for new\nconcepts. General\nAt the beginning of a main chapter, an overview of the following subchapters can be given. At the end of a main chapter, its content can be summarized and moved on to the next",
+      "metadata": {
+        "source": "ScientificWritning_pw ",
+        "page": 17,
+        "type": "semantic_text",
+        "section": "7 Best Practice",
+        "context": "important source code snippets in the main part. It is better to do without it and explain",
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "concepts. General\nAt the beginning of a main chapter, an overview of the following subchapters can be given. At the end of a main chapter, its content can be summarized and moved on to the next\nmain chapter. Anything that could hinder the flow of reading (e.g. extensive tables, figures, mathematical derivations or source code) should be moved to the appendix. Only really\nimportant source code snippets in the main part. It is better to do without it and explain\nthe underlying conceptsalgorithms. Recommendation\nApproach",
+      "metadata": {
+        "source": "ScientificWritning_pw ",
+        "page": 17,
+        "type": "semantic_text",
+        "section": "7 Best Practice",
+        "context": "important source code snippets in the main part. It is better to do without it and explain",
+        "chunk_index": 2,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "8 Time management\nWeek\n2 4 6 8 10 12 14 16 17 18 19-20\nRough chapter structure, structure\nX\nResearch (reading, structuring, noting relevant notes)\nX X X X\nPrototypical implementation\nX X X\nX\nX\nX\nX\nX\nRough print\nX\nX\nX\nX\nRevise, correct, fair copy\nX\nX\nX\nEvaluation, creating graphstables, etc. X\nX\nProofread\nX\nPrinting, binding, dispensing\nX\nFigure 1: Timeline for a bachelor's thesis. Make a schedule and stick to it (for example, as in Fig. 1). Also plan buffer times for the\nunforeseeable and don't be surprised by holidays, e.g. Christmas and New Year, or exam\nperiods. The work should be evenly distributed throughout the week. A day off is\nimportant! Make daily to-do lists and plan enough breaks (more than 5 hours of\nconcentrated work per day is hardly possible). In particular, plan the written elaboration\nTABLES: Week  2  4  6  8  10  12  14  16  17  18  19-20\nRough chapter structure, structure  X\nResearch (reading, structuring, noting relevant notes)  X  X  X  X\nPrototypical implementation    X  X  X  X  X  X  X  X\nRough print      X  X  X  X\nRevise, correct, fair copy          X  X  X\nEvaluation, creating graphstables, etc. X  X\nProofread             X\nPrinting, binding, dispensing              X",
+      "metadata": {
+        "source": "ScientificWritning_pw ",
+        "page": 18,
+        "type": "table_with_context",
+        "section": "X",
+        "table_count": 1
+      }
+    },
+    {
+      "content": "in small steps to be mastered and try to work through an item on the following day's list in\nthe evening. Start working at a set time every day, whether you feel like it or not! Don't forget the\nbreaks (15 minutes break after 45 minutes of work is recommended). Pay attention to your biorhythm and do not schedule important tasks during the times\nwhen you are in a \"tired\" phase (instead do simple tasks: organizing literature, doing the\nhousehold or relaxing.). Think about daily physical exercise. This also promotes mental\nperformance. 9 Tips for Practical ElaborationImplementation\nYour supervisor will certainly be able to give you good advice so that you don't have to\ndevelop your software \"from scratch\". Also explicitly discuss with your supervisor the\nrange of functions that your developed components should provide and complete these\ntasks first. If you find out in the course of editing that you still have time for further\nfunctionality, this will be appreciated and credited to you as a bonus. When it comes to your implementations, keep the KISS principle (\"Keep it simple and\nstupid\" or \"Keep it small and simple\") in mind. Try to find the simplest implementation for\nthe given problem. In general, no mature software product is expected, a functional\nprototype is quite sufficient. However, you should not be stingy with comments in the\nsource code and appropriate documentation. A good program structuresoftware design\nis also essential. This helps all those who want to reuse their software later, e.g. for follow-\nup theses, in teaching, etc. Maybe it's you who wants to use your own software again later\nand is then happy that all functionalities are well structured and explained.",
+      "metadata": {
+        "source": "ScientificWritning_pw ",
+        "page": 19,
+        "type": "semantic_text",
+        "section": "9 Tips for Practical Elaboration/Implementation",
+        "context": "conclusion, 2 levels of structure are sufficient, Length of a section: at least 0.5",
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "up theses, in teaching, etc. Maybe it's you who wants to use your own software again later\nand is then happy that all functionalities are well structured and explained. It is recommended to discuss the table of contents with the supervisor before starting to\nwork on the details. Line of reasoning should be such that: Argumentation comprehensible and conclusive\n(stringent), Mark known facts with source, Connection between the chapters of the\nthesis\nWrite at the end: Conclusion and introduction are usually 100% at the end of the letter\nGood structure produces a good overview and prevent confusion: Consider the number of main chapters in relation to the number of pages\nRecommendation for 20 pages max. 4 main chapters  introduction\nconclusion, 2 levels of structure are sufficient, Length of a section: at least 0.5\npages,",
+      "metadata": {
+        "source": "ScientificWritning_pw ",
+        "page": 19,
+        "type": "semantic_text",
+        "section": "9 Tips for Practical Elaboration/Implementation",
+        "context": "conclusion, 2 levels of structure are sufficient, Length of a section: at least 0.5",
+        "chunk_index": 2,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "An outline should have fewer chapters than a chapter that has sections\n10 Procrastination Techniques (procrastination)\nMany students invest too much time in implementation. Reasons for this are partly\n\"thoughts of perfection\" or the desire to include even more program features in the\nsoftware. Unfortunately, there is also the problem that some prefer to deal intensively\nwith the implementation in order to avoid written work. Possibly because they don't know\nexactly how to \"start\". Most likely, they just lack some experience in planning and\nimplementing such a large work. The phenomenon of procrastination is not unknown and is also referred to as student\nsyndrome. If you yourself are plagued by such thoughts or have the feeling that you are\nunable or only idle to plan your activities, contact your supervisor in good time and work\nout a concept for the division of work together. Be aware: You are certainly not the first\nwith writer's block and you can be helped! 11 Notes on the Presentations\n11.1 Defense\nDefense It is not a mere summary of the content that has emerged. Due to the limited\nspeaking time, students should show that they are able to select important content and\nleave out unimportant content (or only mention it in passing). In particular, the company's\nown contributions are to be highlighted. Try to prepare and present your knowledge as\nunderstandably as possible. Unlike you, the audience does not know every detail of the\nwork and does not want to be informed about every little problem that has arisen during\nthe processing time. First, you should start with good motivation and present the task. Be\ncreative and arouse the interest of your audience! This also includes explicitly listing the",
+      "metadata": {
+        "source": "ScientificWritning_pw ",
+        "page": 20,
+        "type": "semantic_text",
+        "section": "11.1 Defense",
+        "context": "results from measurements or surveys are usually presented and discussed. The",
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "the processing time. First, you should start with good motivation and present the task. Be\ncreative and arouse the interest of your audience! This also includes explicitly listing the\nchallenges (i.e. why is your problem a problem at all). This can be done via a single slide\nentitled \"Challenges\". This is followed by a short outline to give a roadmap through the\nlecture. This is followed by related work and technical basics. These should be as concise\nas possible. A defense is not a lecture! In addition, many things were already discussed in\nthe interim presentation. The core of the work, one's own performance, should be given\nthe largest part of the presentation time. In the case of particularly extensive work, it is\nsometimes necessary to discuss only one part in detail and to present the remaining parts\nin an overview. Always keep the common thread and think carefully about what\nknowledge the listener needs and when to follow the lecture, so you avoid double\nexplanations. Depending on the type of work, it is helpful to start with a big picture before\nexplaining finer structures. In this way, you give the listener an orientation aid. At the end, results from measurements or surveys are usually presented and discussed. The",
+      "metadata": {
+        "source": "ScientificWritning_pw ",
+        "page": 20,
+        "type": "semantic_text",
+        "section": "11.1 Defense",
+        "context": "results from measurements or surveys are usually presented and discussed. The",
+        "chunk_index": 2,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "presentation concludes with a brief conclusion, in which you can once again highlight\nyour own performance and refer to the taskintroduction. You are welcome to make the\nbow and show the challenge slide again. This time (20 minutes), in addition to each sub-\nproblem, you list a short summary of your presented solution(s). This is followed by a\ndemonstration of the developed application and the obligatory QA session. 11.2 QA session\nSee the QA session as an opportunity to present more in-depth knowledge. Some of the\nquestions are addressed in detail to you as an \"expert\", but some are of a simple nature\nand more of an indication that parts of your presentation were not understood. In this\ncase, react confidently and calmly. Under no circumstances should you answer clumsily\nor arrogantly. If you have difficulty understanding, the problem is often due to the\nstructure of the presentation (especially if many details are discussed but an overall\noverview is missing). Don't see expert questions as a personal attack and try to answer\nthem as objectively as possible. This is not always easy, after all, you have been working\non the task for a long time and may have \"grown together\" with it. In this situation, try to\nlook at the work from a distance and do not justify yourself for your actions, especially if\nyour approach is questioned. Instead, allow alternative solutions and, for example, give a\ncomparative assessment of your own solution. 11.3 Miscellaneous\nTime limit The given time limit is hard and should be adhered to at all costs. During your\npresentation, the last 5 minutes of presentation time will be discreetly displayed. If you\nare about to overstay, you will be informed verbally. Now you should definitely get the bow",
+      "metadata": {
+        "source": "ScientificWritning_pw ",
+        "page": 21,
+        "type": "semantic_text",
+        "section": "11.3 Miscellaneous",
+        "context": "understandable and tangible graphically. Avoid unnecessary text in your presentation.",
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "presentation, the last 5 minutes of presentation time will be discreetly displayed. If you\nare about to overstay, you will be informed verbally. Now you should definitely get the bow\nand conclude the presentation, otherwise there is a risk of deductions in the evaluation. Clothing Come to the lectures neatly dressed. However, you do not need to appear in a\nsuit. For the defense of theses, dark long trousers and a shirt or a simple sweater are\nsufficient. T-shirts with prints or casual trousers make you appear rather untrustworthy as\na speaker. Appear Be as relaxed and confident as possible. Try not to appear too stiff (but also not\ntoo hyper). Try to lead through the lecture in a targeted manner through speaking speed\nand accentuation and to control the listener's attention. Practice Practice your presentation in advance e.g. in front of the mirror or in front of good\nfriends. In this way, you can already get initial feedback on comprehensibility. You will also\nlearn to assess whether the presentation fits into the time limit. Practicing the lecture is\nalso a very good way to train a relaxed posture and way of speaking. Slides Don't write everything you say on the slides. There is a great danger that it will then\nlook as if you are simply reading. Instead, create good illustrations and schemes. Slides\nsupport the presentation much more in this way, because facts are often more\nunderstandable and tangible graphically. Avoid unnecessary text in your presentation.",
+      "metadata": {
+        "source": "ScientificWritning_pw ",
+        "page": 21,
+        "type": "semantic_text",
+        "section": "11.3 Miscellaneous",
+        "context": "understandable and tangible graphically. Avoid unnecessary text in your presentation.",
+        "chunk_index": 2,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "Backup slides If you had to take detailed knowledge out of the presentation slides due to\ntime constraints, don't be afraid to collect them as an attachment. In the QA session, the extra slides can help with your explanations and also show that you have a deep\nunderstanding of the material. References in the slides Figures and descriptions of related works must be correctly\nmarked as citations, e.g. with the square citation brackets. Use the same abbreviations\nhere as in your written elaboration. Create a slide with the references used in the\npresentation for the appendix, but do not show this slide in the presentation. Intermediate questions Generally agree to intermediate questions, but do not waste\nvaluable speaking time. Try to return to the presentation as quickly as possible and refer\nto the QA session for questions that would take too long to answer. 12 Evaluation Criteria\nThe Chair of Computer Graphics and Visualization pays attention to the following points\nin statements and expert opinions for theses: How extensive, how difficult and how much innovation is involved in the work\nHow much previous knowledge has the student brought in through lectures, exercises or seminars? If the objectives of the task have been achieved, objectives have been changed, objectives have been extended\nWhat is the student's way of working in terms of determination, prudence, systematics, independence, ability to discuss? What is the written elaboration like in terms of systematic structure, literature\nreview, classification of one's own work, comprehensibility, clarity, completeness, text and presentation quality? What is the practical implementation in terms of scopeeffort, software design,",
+      "metadata": {
+        "source": "ScientificWritning_pw ",
+        "page": 22,
+        "type": "semantic_text",
+        "section": "13 Recommended Reading",
+        "context": "Kornmeier, Martin: Scientific writing made easy for bachelor's, master's and",
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "review, classification of one's own work, comprehensibility, clarity, completeness, text and presentation quality? What is the practical implementation in terms of scopeeffort, software design, completeness, stability, correctness, documentation, use of libraries and\nframeworks? 13 Recommended Reading\nIn German: Kornmeier, Martin: Scientific writing made easy for bachelor's, master's and\ndissertations. UTB (main), 2013",
+      "metadata": {
+        "source": "ScientificWritning_pw ",
+        "page": 22,
+        "type": "semantic_text",
+        "section": "13 Recommended Reading",
+        "context": "Kornmeier, Martin: Scientific writing made easy for bachelor's, master's and",
+        "chunk_index": 2,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "Theuerkauf, Judith: Writing in Engineering Studies: Effective and Efficient for\nBachelor's, Master's and Doctoral Thesis. UTB Verlag, 2012\nEbel, Hans Friedrich: Bachelor's, Master's and Doctoral Thesis: Instructions for\nYoung Scientists and Technicians. Wiley-VCH Verlag GmbH  Co. KGaA, 2009\nHohmann, Sandra: Wissenschaftliches Arbeiten für Naturwissenschaftler, Ingenieure und Mathematiker. Springer Vieweg, 2014\nBalzert, Helmut; Schäfer, Christian; Schröder, Marion; Kern, Uwe: Wissenschaftliches Arbeiten - Wissenschaft, Quellen, Artefakte, Organisation, Präsentation. W3l Verlag, 2008\nRechenberg, Peter: Technical writing: (not only) for computer scientists. Carl\nHanser Verlag GmbH  Co. KG, 2003\nPrevezanos, Christoph: Technical Writing: For Computer Scientists, Academics, Technicians and the Everyday Work. Carl Hanser Verlag GmbH  Co. KG, 2013\nWeissgerber, Monika: Writing in Technical Professions: The Guide for Engineers\nand Technicians: Reports, Documentation, Presentations, Technical Articles, Training Documents. Publicis Publishing, 2010\nhttps:lehren-und-lernen-mit-ki.uni-graz.atenoptions-for-ai-labelingoptions-\nfor-ai-labeling\nhttps:leko.service.th-nuernberg.deowlartikelki-tools-fuer-wissenschaftliche-\narbeiten-nutzen\nhttps:home.uni-leipzig.deschreibportalliteratur-links",
+      "metadata": {
+        "source": "ScientificWritning_pw ",
+        "page": 23,
+        "type": "semantic_text",
+        "section": "13 Recommended Reading",
+        "context": "Training Documents. Publicis Publishing, 2010",
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "arbeiten-nutzen\nhttps:home.uni-leipzig.deschreibportalliteratur-links\nhttps:www.physik.tu-\ndarmstadt.demediafachbereich_physikphys_studiumphys_studium_bachelor\nphys_studium_bsc_praktikaphys_studium_bsc_praktika_gpphys_studium_bsc\n_praktika_gp_regelnGr_Einh_Gl.pdf\nhttps:www.ptb.decmsfileadmininternetThemenrundgaengeImWeltweitenN\netzDerMetrologiesi.pdf\nhttps:tu-dresden.deinginformatiksmtcgvstudiumstudentische-\narbeitenwie-schreibe-ich-eine-abschlussarbeit\nIn English: https:www.hs-\nanhalt.defileadminDateienBibliothekFormulare_MerkblaetterKI2024_Leitlini\ne_zur_Nutzung_von_generativen_Modellen_KI_durch_Studierende.pdf\nhttps:physics.nist.govcuuUnitschecklist.html",
+      "metadata": {
+        "source": "ScientificWritning_pw ",
+        "page": 23,
+        "type": "semantic_text",
+        "section": "13 Recommended Reading",
+        "context": "Training Documents. Publicis Publishing, 2010",
+        "chunk_index": 2,
+        "total_chunks": 2,
+        "is_split": true
+      }
+    },
+    {
+      "content": "https:www.nist.govpmlowmmetric-sisi-units\nhttps:en.wikipedia.orgwikiInternational_System_of_Units\nhttps:www.nist.govpmlowmwriting-si-metric-system-units\nhttps:lehren-und-lernen-mit-ki.uni-graz.atenoptions-for-ai-labelingoptions-\nfor-ai-labeling\nhttps:leko.service.th-nuernberg.deowlartikelki-tools-fuer-wissenschaftliche-\narbeiten-nutzen (please translate, worth reading)\nhttps:sweb.inf.ed.ac.ukbundyhow-tosresbible.html\nhttps:sweb.inf.ed.ac.ukbundyhow-toswritingGuide.html\n14 Recommendations for AI Use\nhttps:www.hs-\nanhalt.dehochschuleeinrichtungenbibliothekrecherchierenkuenstliche-\nintelligenz.html\nDocumentation: Figure 2 Example of AI documentation",
+      "metadata": {
+        "source": "ScientificWritning_pw ",
+        "page": 24,
+        "type": "semantic_text",
+        "section": "14 Recommendations for AI Use",
+        "context": "Figure 2 Example of AI documentation"
+      }
+    },
+    {
+      "content": "15 Assessment\nContent processing (completeness, topic processing, chapter of the thesis, structure\nand completeness), working method (research process, personal contribution, supervision, citation), presentation (structure, technical language, spelling and\ngrammar, expression, visualization, formatting)\nSeveral criteria which can be divided in hard and soft criteria. Weighting depends on the\nsupervisor: Hard criteria\nCompliance with formal requirements\nStructure and organization\nCompletion of the task\nQuality of the results\nPresentation of the results\nInterpretationreflection\nIndependence\nLiteraturesources\nSoft criteria\nAmbition of the topic\nSpelling, expression, and style\nInteraction with supervisor\nCreativity\nCommitment\n16 Common Failures\nContent\nLack of scientific approach (e.g., with regard to traceability)\nLack of presentation of the research method and description of\nthe methods used\nLack of formulation of research question and objective\nIgnoring of components of the topic\nIncorrect weighting of content (e.g., listing of basics dominates\nmain section and results, conclusion and outlook are too brief\nNo discussion and comparison with work in the field\nLack of presentation of basic methods in the background chapter\nTo many subsections\nCaptions of figures and tables to short\nStyle\nMissing or incorrect page numbers in the outline\nTABLES: Content   Lack of scientific approach (e.g., with regard to traceability)\nLack of presentation of the research method and description of\nthe methods used\nLack of formulation of research question and objective\nIgnoring of components of the topic\nIncorrect weighting of content (e.g., listing of basics dominates\nmain section and results, conclusion and outlook are too brief\nNo discussion and comparison with work in the field\nLack of presentation of basic methods in the background chapter\nTo many subsections\nCaptions of figures and tables to short\nStyle   Missing or incorrect page numbers in the outline",
+      "metadata": {
+        "source": "ScientificWritning_pw ",
+        "page": 25,
+        "type": "table_with_context",
+        "section": "16 Common Failures",
+        "table_count": 1
+      }
+    },
+    {
+      "content": "Grammatical and spelling errors\nTransitions between sections too short or not flowing\nNo uniform presentation of figures and tables\nJustified text not used\nUsed not correct format for equations and units\nUnits such as ms are placed straight and have (except for the\ndegree sign) half a space between unit and number)\nAs soon as you put a number on something, it is capitalized\n(Figure 1, Table 2, Algorithm 3.). References\nCiting outdated references (always use the latest ones!)\nUnmarked quotations  appropriation of other people's ideas\n(plagiarism)\nFailure to use scientific sources (e.g., Wikipedia as the sole\nsource is not a scientific approach, exclusive  primary use of\nwhite papers or Internet sources)\nFailure to use basic textbooks for definitions\nTABLES: Grammatical and spelling errors\nTransitions between sections too short or not flowing\nNo uniform presentation of figures and tables\nJustified text not used\nUsed not correct format for equations and units\nUnits such as ms are placed straight and have (except for the\ndegree sign) half a space between unit and number)\nAs soon as you put a number on something, it is capitalized\n(Figure 1, Table 2, Algorithm 3.). References   Citing outdated references (always use the latest ones!)\nUnmarked quotations  appropriation of other people's ideas\n(plagiarism)\nFailure to use scientific sources (e.g., Wikipedia as the sole\nsource is not a scientific approach, exclusive  primary use of\nwhite papers or Internet sources)\nFailure to use basic textbooks for definitions",
+      "metadata": {
+        "source": "ScientificWritning_pw ",
+        "page": 26,
+        "type": "table_with_context",
+        "section": "16 Common Failures",
+        "table_count": 1
+      }
+    }
+  ]
+}
