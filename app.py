@@ -58,7 +58,6 @@ try:
         
         # Get collection info
         collection_count = collection.count()
-        st.success(f"✅ Loaded existing database with {collection_count} chunks")
     else:
         st.error("❌ No ChromaDB collection found! Please run the document processing first.")
         st.info("💡 Make sure you have a ChromaDB in the './chroma_db' folder")
