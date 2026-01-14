@@ -58,7 +58,6 @@ try:
         
         # Get collection info
         collection_count = collection.count()
-        st.success(f"✅ Loaded existing database with {collection_count} chunks")
     else:
         st.error("❌ No ChromaDB collection found! Please run the document processing first.")
         st.info("💡 Make sure you have a ChromaDB in the './chroma_db' folder")
@@ -108,7 +107,6 @@ with st.sidebar:
     
     # Database info
     if st.session_state.collection:
-        st.info(f"📊 Database: {st.session_state.collection.count()} chunks loaded")
     
     # New chat button
     if st.button("➕ New Chat", use_container_width=True, type="primary"):
