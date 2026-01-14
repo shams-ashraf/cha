@@ -105,10 +105,6 @@ st.markdown("""
 with st.sidebar:
     st.markdown("# 🧬 BioMed Chat")
     
-    # Database info
-    if st.session_state.collection:
-        st.info(f"📊 Database: {st.session_state.collection.count()} chunks loaded")
-    
     # New chat button
     if st.button("➕ New Chat", use_container_width=True, type="primary"):
         cid = f"chat_{uuid.uuid4().hex[:6]}"
